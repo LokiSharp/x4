@@ -1,5 +1,5 @@
 export class TurretType {
-  static standard = 'Standard';
-  static missile = 'Missile';
-  static mining = 'Mining';
+  static standard = '标准';
+  static missile = '导弹';
+  static mining = '采矿';
 }

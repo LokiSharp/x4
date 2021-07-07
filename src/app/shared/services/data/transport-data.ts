@@ -1,5 +1,5 @@
 export enum TransportType {
-  container = 'Container',
-  liquid = 'Liquid',
-  solid = 'Solid'
+  container = '集装',
+  liquid = '液体',
+  solid = '固体'
 }

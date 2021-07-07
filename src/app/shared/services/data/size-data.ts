@@ -1,7 +1,7 @@
 export enum Size {
-  extrasmall = 'Extra Small',
-  small = 'Small',
-  medium = 'Medium',
-  large = 'Large',
-  extralarge = 'Extra Large'
+  extrasmall = '超小',
+  small = '小',
+  medium = '中',
+  large = '大',
+  extralarge = '超大'
 }

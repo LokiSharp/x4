@@ -1,13 +1,13 @@
 export enum ModuleTypes {
-   connectionmodule = 'Connection Module',
-   production = 'Production',
-   defencemodule = 'Defense Module',
-   dockarea = 'Dock Area',
-   habitation = 'Habitation',
-   pier = 'Pier',
-   storage = 'Storage',
-   buildmodule = 'Build Module',
-   ventureplatform = 'Venture Platform'
+   connectionmodule = '连接模块',
+   production = '生产模块',
+   defencemodule = '防御模块',
+   dockarea = '港口模块',
+   habitation = '居住模块',
+   pier = '码头',
+   storage = '仓储模块',
+   buildmodule = '建造模块',
+   ventureplatform = '远征模块'
 }
 
 export const AllModuleTypes = [
