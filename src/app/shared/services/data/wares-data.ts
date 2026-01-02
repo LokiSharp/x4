@@ -648,21 +648,6 @@ export const Wares = {
          { type: Effects.work, product: 0.28 },
        ],
      },
-     {
-       time: 300,
-       amount: 208,
-       method: 'split',
-       name: 'Split',
-       wares: [
-         { ware: 'energycells', amount: 100 },
-         { ware: 'scruffinfruits', amount: 30 },
-         { ware: 'spices', amount: 60 },
-         { ware: 'water', amount: 60 },
-       ],
-       effects: [
-         { type: Effects.work, product: 0.28 },
-       ],
-     },
    ]
   },
  methane: {
@@ -1806,6 +1791,4 @@ export const AllWares = [
  Wares.bofu,
  Wares.bogas,
  Wares.plankton,
- Wares.cheltmeat,
- Wares.scruffinfruits,
 ];

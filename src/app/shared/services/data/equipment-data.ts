@@ -980,7 +980,7 @@ export const Equipments = [
 		size: Size.large,
 		hull: 4018,
 		price: { min: 324732, max: 396895, avg: 360814 },
-		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity ],
+		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity, Factions.kaori ],
 		thrust: { forward: 4420, reverse: 3978 },
 		travel: { thrust: 30.6, attack: 72, charge: 16, release: 0 },
 		production: [
@@ -1008,7 +1008,7 @@ export const Equipments = [
 		size: Size.large,
 		hull: 4018,
 		price: { min: 340969, max: 416740, avg: 378855 },
-		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity ],
+		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity, Factions.kaori ],
 		thrust: { forward: 3500, reverse: 3151 },
 		travel: { thrust: 45.2, attack: 67, charge: 14, release: 0 },
 		production: [
@@ -1035,7 +1035,7 @@ export const Equipments = [
 		equipmentClass: EquipmentClass.engine,
 		size: Size.medium,
 		price: { min: 11767, max: 14382, avg: 13074 },
-		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity ],
+		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity, Factions.kaori ],
 		thrust: { forward: 1045, reverse: 1045 },
 		travel: { thrust: 10.5, attack: 36.8, charge: 6, release: 0 },
 		production: [
@@ -1062,7 +1062,7 @@ export const Equipments = [
 		equipmentClass: EquipmentClass.engine,
 		size: Size.medium,
 		price: { min: 58166, max: 71092, avg: 64629 },
-		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity ],
+		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity, Factions.kaori ],
 		thrust: { forward: 1251, reverse: 1251 },
 		travel: { thrust: 10.5, attack: 36.8, charge: 6, release: 0 },
 		production: [
@@ -1089,7 +1089,7 @@ export const Equipments = [
 		equipmentClass: EquipmentClass.engine,
 		size: Size.medium,
 		price: { min: 287722, max: 351660, avg: 319691 },
-		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity ],
+		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity, Factions.kaori ],
 		thrust: { forward: 1410.75, reverse: 1410.75 },
 		travel: { thrust: 10.5, attack: 36.8, charge: 6, release: 0 },
 		production: [
@@ -1116,7 +1116,7 @@ export const Equipments = [
 		equipmentClass: EquipmentClass.engine,
 		size: Size.medium,
 		price: { min: 14357, max: 17547, avg: 15952 },
-		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity, Factions.yaki ],
+		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity, Factions.yaki, Factions.kaori ],
 		thrust: { forward: 1201.75, reverse: 1201.75 },
 		travel: { thrust: 7.67, attack: 39.7, charge: 6, release: 0 },
 		production: [
@@ -1143,7 +1143,7 @@ export const Equipments = [
 		equipmentClass: EquipmentClass.engine,
 		size: Size.medium,
 		price: { min: 69711, max: 85202, avg: 77457 },
-		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity ],
+		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity, Factions.kaori ],
 		thrust: { forward: 1442.1, reverse: 1442.1 },
 		travel: { thrust: 7.67, attack: 39.7, charge: 6, release: 0 },
 		production: [
@@ -1170,7 +1170,7 @@ export const Equipments = [
 		equipmentClass: EquipmentClass.engine,
 		size: Size.medium,
 		price: { min: 345444, max: 422209, avg: 383827 },
-		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity ],
+		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity, Factions.kaori ],
 		thrust: { forward: 1622.36, reverse: 1622.36 },
 		travel: { thrust: 7.67, attack: 39.7, charge: 6, release: 0 },
 		production: [
@@ -1197,7 +1197,7 @@ export const Equipments = [
 		equipmentClass: EquipmentClass.engine,
 		size: Size.medium,
 		price: { min: 13062, max: 15964, avg: 14513 },
-		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity ],
+		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity, Factions.kaori ],
 		thrust: { forward: 919.6, reverse: 919.6 },
 		travel: { thrust: 15.51, attack: 34.2, charge: 4, release: 0 },
 		production: [
@@ -1224,7 +1224,7 @@ export const Equipments = [
 		equipmentClass: EquipmentClass.engine,
 		size: Size.medium,
 		price: { min: 65234, max: 79730, avg: 72482 },
-		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity ],
+		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity, Factions.kaori ],
 		thrust: { forward: 1103.52, reverse: 1103.52 },
 		travel: { thrust: 15.51, attack: 34.2, charge: 4, release: 0 },
 		production: [
@@ -1251,7 +1251,7 @@ export const Equipments = [
 		equipmentClass: EquipmentClass.engine,
 		size: Size.medium,
 		price: { min: 331013, max: 404572, avg: 367793 },
-		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity ],
+		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity, Factions.kaori ],
 		thrust: { forward: 1241.46, reverse: 1241.46 },
 		travel: { thrust: 15.51, attack: 34.2, charge: 4, release: 0 },
 		production: [
@@ -1278,7 +1278,7 @@ export const Equipments = [
 		equipmentClass: EquipmentClass.engine,
 		size: Size.small,
 		price: { min: 5526, max: 6754, avg: 6140 },
-		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity ],
+		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity, Factions.kaori ],
 		thrust: { forward: 412, reverse: 412 },
 		travel: { thrust: 15, attack: 32, charge: 4, release: 0 },
 		production: [
@@ -1304,7 +1304,7 @@ export const Equipments = [
 		equipmentClass: EquipmentClass.engine,
 		size: Size.small,
 		price: { min: 26370, max: 32230, avg: 29300 },
-		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity ],
+		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity, Factions.kaori ],
 		thrust: { forward: 494.4, reverse: 494.4 },
 		travel: { thrust: 15, attack: 32, charge: 4, release: 0 },
 		production: [
@@ -1331,7 +1331,7 @@ export const Equipments = [
 		equipmentClass: EquipmentClass.engine,
 		size: Size.small,
 		price: { min: 123301, max: 150701, avg: 137001 },
-		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity ],
+		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity, Factions.kaori ],
 		thrust: { forward: 556.2, reverse: 556.2 },
 		travel: { thrust: 15, attack: 32, charge: 4, release: 0 },
 		production: [
@@ -1358,7 +1358,7 @@ export const Equipments = [
 		equipmentClass: EquipmentClass.engine,
 		size: Size.small,
 		price: { min: 8116, max: 9919, avg: 9017 },
-		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity ],
+		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity, Factions.kaori ],
 		thrust: { forward: 473.8, reverse: 473.8 },
 		travel: { thrust: 10.96, attack: 34.56, charge: 4, release: 0 },
 		production: [
@@ -1384,7 +1384,7 @@ export const Equipments = [
 		equipmentClass: EquipmentClass.engine,
 		size: Size.small,
 		price: { min: 40504, max: 49505, avg: 45005 },
-		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity, Factions.yaki ],
+		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity, Factions.yaki, Factions.kaori ],
 		thrust: { forward: 568.56, reverse: 568.56 },
 		travel: { thrust: 10.96, attack: 34.56, charge: 4, release: 0 },
 		production: [
@@ -1411,7 +1411,7 @@ export const Equipments = [
 		equipmentClass: EquipmentClass.engine,
 		size: Size.small,
 		price: { min: 181023, max: 221250, avg: 201137 },
-		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity, Factions.yaki ],
+		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity, Factions.yaki, Factions.kaori ],
 		thrust: { forward: 639.63, reverse: 639.63 },
 		travel: { thrust: 10.96, attack: 34.56, charge: 4, release: 0 },
 		production: [
@@ -1438,7 +1438,7 @@ export const Equipments = [
 		equipmentClass: EquipmentClass.engine,
 		size: Size.small,
 		price: { min: 6821, max: 8336, avg: 7579 },
-		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity ],
+		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity, Factions.kaori ],
 		thrust: { forward: 362.56, reverse: 362.56 },
 		travel: { thrust: 22.16, attack: 29.76, charge: 2, release: 0 },
 		production: [
@@ -1464,7 +1464,7 @@ export const Equipments = [
 		equipmentClass: EquipmentClass.engine,
 		size: Size.small,
 		price: { min: 34732, max: 42450, avg: 38591 },
-		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity ],
+		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity, Factions.kaori ],
 		thrust: { forward: 435.07, reverse: 435.07 },
 		travel: { thrust: 22.16, attack: 29.76, charge: 2, release: 0 },
 		production: [
@@ -1491,7 +1491,7 @@ export const Equipments = [
 		equipmentClass: EquipmentClass.engine,
 		size: Size.small,
 		price: { min: 166592, max: 203613, avg: 185103 },
-		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity ],
+		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity, Factions.kaori ],
 		thrust: { forward: 489.46, reverse: 489.46 },
 		travel: { thrust: 22.16, attack: 29.76, charge: 2, release: 0 },
 		production: [
@@ -1519,7 +1519,7 @@ export const Equipments = [
 		size: Size.extralarge,
 		hull: 9899,
 		price: { min: 428301, max: 523479, avg: 475890 },
-		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity ],
+		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity, Factions.kaori ],
 		thrust: { forward: 11600, reverse: 10440 },
 		travel: { thrust: 30.6, attack: 72, charge: 16, release: 0 },
 		production: [
@@ -1547,7 +1547,7 @@ export const Equipments = [
 		size: Size.extralarge,
 		hull: 9955,
 		price: { min: 449716, max: 549653, avg: 499685 },
-		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity ],
+		owners: [ Factions.alliance, Factions.buccaneers, Factions.holyorder, Factions.paranid, Factions.trinity, Factions.kaori ],
 		thrust: { forward: 9187, reverse: 8268 },
 		travel: { thrust: 45.2, attack: 67, charge: 14, release: 0 },
 		production: [
@@ -4105,7 +4105,7 @@ export const Equipments = [
 		hull: 2000,
 		recharge: { max: 42729, rate: 166, delay: 0 },
 		price: { min: 42166, max: 51536, avg: 46851 },
-		owners: [ Factions.alliance, Factions.ministry, Factions.scaleplate, Factions.teladi ],
+		owners: [ Factions.alliance, Factions.ministry, Factions.scaleplate, Factions.teladi, Factions.kaori ],
 		production: [
 		{
 			time: 20,
@@ -4132,7 +4132,7 @@ export const Equipments = [
 		hull: 2000,
 		recharge: { max: 50911, rate: 257, delay: 0 },
 		price: { min: 205644, max: 251343, avg: 228494 },
-		owners: [ Factions.alliance, Factions.ministry, Factions.teladi ],
+		owners: [ Factions.alliance, Factions.ministry, Factions.teladi, Factions.kaori ],
 		production: [
 		{
 			time: 20,
@@ -4159,7 +4159,7 @@ export const Equipments = [
 		hull: 500,
 		recharge: { max: 5662, rate: 25, delay: 0.57 },
 		price: { min: 12838, max: 15691, avg: 14264 },
-		owners: [ Factions.alliance, Factions.ministry, Factions.scaleplate, Factions.teladi ],
+		owners: [ Factions.alliance, Factions.ministry, Factions.scaleplate, Factions.teladi, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -4196,7 +4196,7 @@ export const Equipments = [
 		hull: 500,
 		recharge: { max: 6746, rate: 39, delay: 0.57 },
 		price: { min: 62115, max: 75918, avg: 69017 },
-		owners: [ Factions.alliance, Factions.ministry, Factions.teladi, Factions.yaki ],
+		owners: [ Factions.alliance, Factions.ministry, Factions.teladi, Factions.yaki, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -4234,7 +4234,7 @@ export const Equipments = [
 		hull: 500,
 		recharge: { max: 5662, rate: 25, delay: 0.57 },
 		price: { min: 12015, max: 14685, avg: 13350 },
-		owners: [ Factions.alliance, Factions.ministry, Factions.scaleplate, Factions.teladi ],
+		owners: [ Factions.alliance, Factions.ministry, Factions.scaleplate, Factions.teladi, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -4271,7 +4271,7 @@ export const Equipments = [
 		hull: 500,
 		recharge: { max: 6746, rate: 39, delay: 0.57 },
 		price: { min: 26058, max: 31849, avg: 28954 },
-		owners: [ Factions.alliance, Factions.ministry, Factions.teladi ],
+		owners: [ Factions.alliance, Factions.ministry, Factions.teladi, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -4308,7 +4308,7 @@ export const Equipments = [
 		size: Size.small,
 		recharge: { max: 910, rate: 79, delay: 13.9 },
 		price: { min: 1218, max: 1489, avg: 1354 },
-		owners: [ Factions.alliance, Factions.ministry, Factions.scaleplate, Factions.teladi ],
+		owners: [ Factions.alliance, Factions.ministry, Factions.scaleplate, Factions.teladi, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -4333,7 +4333,7 @@ export const Equipments = [
 		size: Size.small,
 		recharge: { max: 1087, rate: 122, delay: 13.9 },
 		price: { min: 10186, max: 12449, avg: 11318 },
-		owners: [ Factions.alliance, Factions.ministry, Factions.teladi ],
+		owners: [ Factions.alliance, Factions.ministry, Factions.teladi, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -4359,7 +4359,7 @@ export const Equipments = [
 		size: Size.small,
 		recharge: { max: 1552, rate: 210, delay: 13.9 },
 		price: { min: 49892, max: 60979, avg: 55436 },
-		owners: [ Factions.alliance, Factions.ministry, Factions.teladi, Factions.yaki ],
+		owners: [ Factions.alliance, Factions.ministry, Factions.teladi, Factions.yaki, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -4386,7 +4386,7 @@ export const Equipments = [
 		hull: 6000,
 		recharge: { max: 142429, rate: 470, delay: 0 },
 		price: { min: 225671, max: 275820, avg: 250745 },
-		owners: [ Factions.alliance, Factions.ministry, Factions.teladi ],
+		owners: [ Factions.alliance, Factions.ministry, Factions.teladi, Factions.kaori ],
 		production: [
 		{
 			time: 20,
@@ -6599,7 +6599,7 @@ export const Equipments = [
 		size: Size.large,
 		hull: 2300,
 		price: { min: 135464, max: 165567, avg: 150515 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.loanshark, Factions.scavenger ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -6636,7 +6636,7 @@ export const Equipments = [
 		size: Size.large,
 		hull: 5000,
 		price: { min: 67905, max: 82995, avg: 75450 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.loanshark, Factions.scavenger ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -6673,7 +6673,7 @@ export const Equipments = [
 		size: Size.large,
 		hull: 5000,
 		price: { min: 78261, max: 95652, avg: 86957 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.loanshark, Factions.scavenger ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -6710,7 +6710,7 @@ export const Equipments = [
 		size: Size.large,
 		hull: 2300,
 		price: { min: 52289, max: 63909, avg: 58099 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.hatikvah, Factions.yaki, Factions.loanshark, Factions.scavenger ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.hatikvah, Factions.yaki, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -6747,7 +6747,7 @@ export const Equipments = [
 		size: Size.large,
 		hull: 2300,
 		price: { min: 49166, max: 60092, avg: 54629 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.hatikvah, Factions.loanshark, Factions.scavenger ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.hatikvah, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -6783,7 +6783,7 @@ export const Equipments = [
 		size: Size.large,
 		hull: 2300,
 		price: { min: 93055, max: 113734, avg: 103395 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.loanshark, Factions.scavenger ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -6819,7 +6819,7 @@ export const Equipments = [
 		equipmentClass: EquipmentClass.turret,
 		size: Size.medium,
 		price: { min: 45385, max: 55471, avg: 50428 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.loanshark, Factions.scavenger ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -6856,7 +6856,7 @@ export const Equipments = [
 		size: Size.medium,
 		hull: 500,
 		price: { min: 45385, max: 55471, avg: 50428 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.loanshark, Factions.scavenger ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -6893,7 +6893,7 @@ export const Equipments = [
 		size: Size.medium,
 		hull: 1100,
 		price: { min: 22865, max: 27946, avg: 25406 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.loanshark, Factions.scavenger, Factions.boron ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.loanshark, Factions.scavenger, Factions.boron, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -7002,7 +7002,7 @@ export const Equipments = [
 		equipmentClass: EquipmentClass.turret,
 		size: Size.medium,
 		price: { min: 24665, max: 30147, avg: 27406 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.loanshark, Factions.scavenger ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -7039,7 +7039,7 @@ export const Equipments = [
 		size: Size.medium,
 		hull: 500,
 		price: { min: 24665, max: 30147, avg: 27406 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.loanshark, Factions.scavenger, Factions.boron ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.loanshark, Factions.scavenger, Factions.boron, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -7076,7 +7076,7 @@ export const Equipments = [
 		size: Size.medium,
 		hull: 1100,
 		price: { min: 26317, max: 32166, avg: 29242 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.loanshark, Factions.scavenger, Factions.boron ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.loanshark, Factions.scavenger, Factions.boron, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -7112,7 +7112,7 @@ export const Equipments = [
 		equipmentClass: EquipmentClass.turret,
 		size: Size.medium,
 		price: { min: 21378, max: 26128, avg: 23753 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.hatikvah, Factions.yaki, Factions.loanshark, Factions.scavenger ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.hatikvah, Factions.yaki, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -7149,7 +7149,7 @@ export const Equipments = [
 		size: Size.medium,
 		hull: 500,
 		price: { min: 21378, max: 26128, avg: 23753 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.hatikvah, Factions.yaki, Factions.loanshark, Factions.scavenger, Factions.boron ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.hatikvah, Factions.yaki, Factions.loanshark, Factions.scavenger, Factions.boron, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -7185,7 +7185,7 @@ export const Equipments = [
 		equipmentClass: EquipmentClass.turret,
 		size: Size.medium,
 		price: { min: 16446, max: 20101, avg: 18274 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.hatikvah, Factions.loanshark, Factions.scavenger ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.hatikvah, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -7220,7 +7220,7 @@ export const Equipments = [
 		size: Size.medium,
 		hull: 500,
 		price: { min: 16446, max: 20101, avg: 18274 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.hatikvah, Factions.loanshark, Factions.scavenger, Factions.boron ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.hatikvah, Factions.loanshark, Factions.scavenger, Factions.boron, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -7254,7 +7254,7 @@ export const Equipments = [
 		equipmentClass: EquipmentClass.turret,
 		size: Size.medium,
 		price: { min: 31249, max: 38193, avg: 34721 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.loanshark, Factions.scavenger ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -7291,7 +7291,7 @@ export const Equipments = [
 		size: Size.medium,
 		hull: 500,
 		price: { min: 31249, max: 38193, avg: 34721 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.loanshark, Factions.scavenger ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -7327,7 +7327,7 @@ export const Equipments = [
 		equipmentClass: EquipmentClass.turret,
 		size: Size.medium,
 		price: { min: 22857, max: 27936, avg: 25397 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.loanshark, Factions.scavenger ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -7364,7 +7364,7 @@ export const Equipments = [
 		size: Size.medium,
 		hull: 500,
 		price: { min: 22857, max: 27936, avg: 25397 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.loanshark, Factions.scavenger, Factions.boron ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.loanshark, Factions.scavenger, Factions.boron, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -9077,7 +9077,7 @@ export const Equipments = [
 		size: Size.medium,
 		hull: 1001,
 		price: { min: 25530, max: 31203, avg: 28367 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.loanshark, Factions.scavenger ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -9125,7 +9125,7 @@ export const Equipments = [
 		size: Size.medium,
 		hull: 1001,
 		price: { min: 127132, max: 155383, avg: 141257 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.loanshark, Factions.scavenger ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -9173,7 +9173,7 @@ export const Equipments = [
 		size: Size.medium,
 		hull: 1001,
 		price: { min: 22558, max: 27571, avg: 25064 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.hatikvah, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.scaleplate, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.pioneers, Factions.terran, Factions.loanshark, Factions.scavenger, Factions.court, Factions.freesplit, Factions.split ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.hatikvah, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.scaleplate, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.pioneers, Factions.terran, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 5,
@@ -9221,7 +9221,7 @@ export const Equipments = [
 		size: Size.medium,
 		hull: 1001,
 		price: { min: 111753, max: 136587, avg: 124170 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.pioneers, Factions.terran, Factions.loanshark, Factions.scavenger, Factions.court, Factions.freesplit, Factions.split ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.pioneers, Factions.terran, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 5,
@@ -9269,7 +9269,7 @@ export const Equipments = [
 		size: Size.medium,
 		hull: 1001,
 		price: { min: 43055, max: 52623, avg: 47839 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.yaki, Factions.loanshark, Factions.scavenger ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.yaki, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -9317,7 +9317,7 @@ export const Equipments = [
 		size: Size.medium,
 		hull: 1001,
 		price: { min: 214756, max: 262480, avg: 238618 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.loanshark, Factions.scavenger ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -9365,7 +9365,7 @@ export const Equipments = [
 		size: Size.medium,
 		hull: 1001,
 		price: { min: 44770, max: 54719, avg: 49745 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.pioneers, Factions.terran, Factions.loanshark, Factions.scavenger, Factions.court, Factions.freesplit, Factions.split ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.pioneers, Factions.terran, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 5,
@@ -9413,7 +9413,7 @@ export const Equipments = [
 		size: Size.medium,
 		hull: 1001,
 		price: { min: 222815, max: 272330, avg: 247572 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.pioneers, Factions.terran, Factions.loanshark, Factions.scavenger, Factions.court, Factions.freesplit, Factions.split ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.pioneers, Factions.terran, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 5,
@@ -9461,7 +9461,7 @@ export const Equipments = [
 		size: Size.medium,
 		hull: 1001,
 		price: { min: 20763, max: 25377, avg: 23070 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.hatikvah, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.scaleplate, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.yaki, Factions.loanshark, Factions.scavenger, Factions.court, Factions.freesplit, Factions.split ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.hatikvah, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.scaleplate, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.yaki, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -9509,7 +9509,7 @@ export const Equipments = [
 		size: Size.medium,
 		hull: 1001,
 		price: { min: 103297, max: 126252, avg: 114775 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.yaki, Factions.loanshark, Factions.scavenger, Factions.court, Factions.freesplit, Factions.split ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.yaki, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -9557,7 +9557,7 @@ export const Equipments = [
 		size: Size.medium,
 		hull: 1001,
 		price: { min: 16016, max: 19575, avg: 17796 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.hatikvah, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.scaleplate, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.pioneers, Factions.terran, Factions.loanshark, Factions.scavenger, Factions.court, Factions.freesplit, Factions.split ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.hatikvah, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.scaleplate, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.pioneers, Factions.terran, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -9603,7 +9603,7 @@ export const Equipments = [
 		size: Size.medium,
 		hull: 1001,
 		price: { min: 79562, max: 97243, avg: 88402 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.pioneers, Factions.terran, Factions.loanshark, Factions.scavenger, Factions.court, Factions.freesplit, Factions.split ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.pioneers, Factions.terran, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -9651,7 +9651,7 @@ export const Equipments = [
 		size: Size.medium,
 		hull: 1001,
 		price: { min: 30277, max: 37005, avg: 33641 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.loanshark, Factions.scavenger, Factions.court, Factions.freesplit, Factions.split ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -9699,7 +9699,7 @@ export const Equipments = [
 		size: Size.medium,
 		hull: 1001,
 		price: { min: 150867, max: 184393, avg: 167630 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.loanshark, Factions.scavenger, Factions.court, Factions.freesplit, Factions.split ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -9747,7 +9747,7 @@ export const Equipments = [
 		size: Size.medium,
 		hull: 1001,
 		price: { min: 27152, max: 33186, avg: 30169 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.yaki, Factions.loanshark, Factions.scavenger ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.yaki, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -9795,7 +9795,7 @@ export const Equipments = [
 		size: Size.medium,
 		hull: 1001,
 		price: { min: 111308, max: 136043, avg: 123676 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.yaki, Factions.loanshark, Factions.scavenger ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.yaki, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -9843,7 +9843,7 @@ export const Equipments = [
 		size: Size.medium,
 		hull: 1001,
 		price: { min: 78039, max: 95381, avg: 86710 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.loanshark, Factions.scavenger, Factions.court, Factions.freesplit, Factions.split ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 5,
@@ -9891,7 +9891,7 @@ export const Equipments = [
 		size: Size.medium,
 		hull: 1001,
 		price: { min: 389160, max: 475640, avg: 432400 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.loanshark, Factions.scavenger, Factions.court, Factions.freesplit, Factions.split ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 5,
@@ -9939,7 +9939,7 @@ export const Equipments = [
 		size: Size.small,
 		hull: 500,
 		price: { min: 23948, max: 29269, avg: 26609 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.loanshark, Factions.scavenger ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -9987,7 +9987,7 @@ export const Equipments = [
 		size: Size.small,
 		hull: 500,
 		price: { min: 104979, max: 128308, avg: 116643 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.loanshark, Factions.scavenger ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -10106,7 +10106,7 @@ export const Equipments = [
 		equipmentClass: EquipmentClass.weapon,
 		size: Size.small,
 		price: { min: 40538, max: 81008, avg: 60773 },
-		owners: [ Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.trinity ],
+		owners: [ Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.trinity, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -10141,7 +10141,7 @@ export const Equipments = [
 		equipmentClass: EquipmentClass.weapon,
 		size: Size.small,
 		price: { min: 57963, max: 111999, avg: 84981 },
-		owners: [ Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.trinity ],
+		owners: [ Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.trinity, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -10177,7 +10177,7 @@ export const Equipments = [
 		size: Size.small,
 		hull: 500,
 		price: { min: 6695, max: 8183, avg: 7439 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.hatikvah, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.scaleplate, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.pioneers, Factions.terran, Factions.loanshark, Factions.scavenger, Factions.court, Factions.freesplit, Factions.split ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.hatikvah, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.scaleplate, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.pioneers, Factions.terran, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 5,
@@ -10223,7 +10223,7 @@ export const Equipments = [
 		size: Size.small,
 		hull: 500,
 		price: { min: 13370, max: 16341, avg: 14855 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.pioneers, Factions.terran, Factions.loanshark, Factions.scavenger, Factions.court, Factions.freesplit, Factions.split ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.pioneers, Factions.terran, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 5,
@@ -10270,7 +10270,7 @@ export const Equipments = [
 		size: Size.small,
 		hull: 500,
 		price: { min: 23928, max: 29245, avg: 26586 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.yaki, Factions.loanshark, Factions.scavenger ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.yaki, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -10318,7 +10318,7 @@ export const Equipments = [
 		size: Size.small,
 		hull: 500,
 		price: { min: 119121, max: 145592, avg: 132356 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.loanshark, Factions.scavenger ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -10366,7 +10366,7 @@ export const Equipments = [
 		size: Size.small,
 		hull: 500,
 		price: { min: 8277, max: 10117, avg: 9197 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.pioneers, Factions.terran, Factions.loanshark, Factions.scavenger, Factions.court, Factions.freesplit, Factions.split ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.pioneers, Factions.terran, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 5,
@@ -10412,7 +10412,7 @@ export const Equipments = [
 		size: Size.small,
 		hull: 500,
 		price: { min: 40349, max: 49316, avg: 44832 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.pioneers, Factions.terran, Factions.loanshark, Factions.scavenger, Factions.court, Factions.freesplit, Factions.split ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.pioneers, Factions.terran, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 5,
@@ -10460,7 +10460,7 @@ export const Equipments = [
 		size: Size.small,
 		hull: 500,
 		price: { min: 16056, max: 19624, avg: 17840 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.hatikvah, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.scaleplate, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.yaki, Factions.loanshark, Factions.scavenger, Factions.court, Factions.freesplit, Factions.split ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.hatikvah, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.scaleplate, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.yaki, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -10508,7 +10508,7 @@ export const Equipments = [
 		size: Size.small,
 		hull: 500,
 		price: { min: 79761, max: 97485, avg: 88623 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.yaki, Factions.loanshark, Factions.scavenger, Factions.court, Factions.freesplit, Factions.split ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.yaki, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -10556,7 +10556,7 @@ export const Equipments = [
 		size: Size.small,
 		hull: 500,
 		price: { min: 6522, max: 7971, avg: 7247 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.pioneers, Factions.terran, Factions.loanshark, Factions.scavenger, Factions.court, Factions.freesplit, Factions.split ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.pioneers, Factions.terran, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -10601,7 +10601,7 @@ export const Equipments = [
 		size: Size.small,
 		hull: 500,
 		price: { min: 32092, max: 39223, avg: 35658 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.pioneers, Factions.terran, Factions.loanshark, Factions.scavenger, Factions.court, Factions.freesplit, Factions.split ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.pioneers, Factions.terran, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -10649,7 +10649,7 @@ export const Equipments = [
 		size: Size.small,
 		hull: 500,
 		price: { min: 12851, max: 15707, avg: 14279 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.loanshark, Factions.scavenger, Factions.court, Factions.freesplit, Factions.split ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -10696,7 +10696,7 @@ export const Equipments = [
 		size: Size.small,
 		hull: 500,
 		price: { min: 55827, max: 68233, avg: 62030 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.loanshark, Factions.scavenger, Factions.court, Factions.freesplit, Factions.split ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -10744,7 +10744,7 @@ export const Equipments = [
 		size: Size.small,
 		hull: 500,
 		price: { min: 22365, max: 27335, avg: 24850 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.yaki, Factions.loanshark, Factions.scavenger ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.yaki, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -10792,7 +10792,7 @@ export const Equipments = [
 		size: Size.small,
 		hull: 500,
 		price: { min: 135242, max: 165296, avg: 150269 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.yaki, Factions.loanshark, Factions.scavenger ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.yaki, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 10,
@@ -10840,7 +10840,7 @@ export const Equipments = [
 		size: Size.small,
 		hull: 500,
 		price: { min: 22558, max: 27571, avg: 25064 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.loanshark, Factions.scavenger, Factions.court, Factions.freesplit, Factions.split ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 5,
@@ -10888,7 +10888,7 @@ export const Equipments = [
 		size: Size.small,
 		hull: 500,
 		price: { min: 111753, max: 136587, avg: 124170 },
-		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.loanshark, Factions.scavenger, Factions.court, Factions.freesplit, Factions.split ],
+		owners: [ Factions.alliance, Factions.antigone, Factions.argon, Factions.buccaneers, Factions.holyorder, Factions.ministry, Factions.paranid, Factions.teladi, Factions.trinity, Factions.court, Factions.freesplit, Factions.split, Factions.loanshark, Factions.scavenger, Factions.kaori ],
 		production: [
 		{
 			time: 5,
@@ -15974,19 +15974,152 @@ export const Equipments = [
 		]
 	},
 	{
-		id: 'engine_spl_l_allround_01_mk1',
+		id: 'engine_arg_s_racer_01_mk1',
 		version: 1,
-		name: 'SPL L 均衡引擎 Mk1',
-		description: '由于其尚武文化，Split引擎设计将纯推力置于一切要素之上。出于对战斗性能的优化，这些引擎很大程度上忽略了安全性、牺牲了巡航效率以获得更卓越的机动性。nn追求泛用性的舰长通常会选择均衡引擎。它拥有均衡的巡航速度和短时加速能力。nnL级（大型）引擎只能安装于同级飞船上。nnMk I是基础型号。',
-		race: Races.split,
+		name: 'ARG S 竞速引擎 Mk1',
+		description: '无可用信息',
+		race: Races.argon,
+		type: EquipmentType.engines,
+		equipmentClass: EquipmentClass.engine,
+		size: Size.small,
+		price: { min: 199910, max: 244336, avg: 222124 },
+		owners: [ Factions.ownerless ],
+		thrust: { forward: 563, reverse: 710 },
+		travel: { thrust: 1, attack: 1, charge: 0, release: 0 },
+		production: [
+		{
+			time: 10,
+			amount: 1,
+			method: 'default',
+			name: '常规',
+			wares: [
+				{ ware: 'energycells', amount: 416 },
+				{ ware: 'engineparts', amount: 71 },
+				{ ware: 'fieldcoils', amount: 38 },
+			],
+		},
+		]
+	},
+	{
+		id: 'engine_gen_s_racer_01_mk1',
+		version: 1,
+		name: 'S 竞速引擎 Mk1',
+		description: '无可用信息',
+		type: EquipmentType.engines,
+		equipmentClass: EquipmentClass.engine,
+		size: Size.small,
+		price: { min: 217228, max: 265500, avg: 241364 },
+		owners: [ Factions.ownerless ],
+		thrust: { forward: 710, reverse: 710 },
+		travel: { thrust: 1, attack: 1, charge: 0, release: 0 },
+		production: [
+		{
+			time: 10,
+			amount: 1,
+			method: 'default',
+			name: '常规',
+			wares: [
+				{ ware: 'antimatterconverters', amount: 41 },
+				{ ware: 'energycells', amount: 453 },
+				{ ware: 'engineparts', amount: 77 },
+			],
+		},
+		]
+	},
+	{
+		id: 'engine_gen_s_racer_01_mk2',
+		version: 1,
+		name: 'S 竞速引擎 Mk2',
+		description: '无可用信息',
+		type: EquipmentType.engines,
+		equipmentClass: EquipmentClass.engine,
+		size: Size.small,
+		price: { min: 289637, max: 354000, avg: 321819 },
+		owners: [ Factions.ownerless ],
+		thrust: { forward: 710, reverse: 710 },
+		travel: { thrust: 9.5, attack: 38, charge: 0, release: 0 },
+		production: [
+		{
+			time: 10,
+			amount: 1,
+			method: 'default',
+			name: '常规',
+			wares: [
+				{ ware: 'antimatterconverters', amount: 55 },
+				{ ware: 'energycells', amount: 603 },
+				{ ware: 'engineparts', amount: 103 },
+			],
+		},
+		]
+	},
+	{
+		id: 'engine_par_s_racer_01_mk1',
+		version: 1,
+		name: 'PAR S 竞速引擎 Mk1',
+		description: '无可用信息',
+		race: Races.paranid,
+		type: EquipmentType.engines,
+		equipmentClass: EquipmentClass.engine,
+		size: Size.small,
+		price: { min: 199910, max: 244336, avg: 222124 },
+		owners: [ Factions.ownerless ],
+		thrust: { forward: 500, reverse: 720 },
+		travel: { thrust: 1, attack: 1, charge: 0, release: 0 },
+		production: [
+		{
+			time: 10,
+			amount: 1,
+			method: 'default',
+			name: '常规',
+			wares: [
+				{ ware: 'antimatterconverters', amount: 38 },
+				{ ware: 'energycells', amount: 416 },
+				{ ware: 'engineparts', amount: 71 },
+			],
+		},
+		]
+	},
+	{
+		id: 'engine_tel_s_racer_01_mk1',
+		version: 1,
+		name: 'TEL S 竞速引擎 Mk1',
+		description: '无可用信息',
+		race: Races.teladi,
+		type: EquipmentType.engines,
+		equipmentClass: EquipmentClass.engine,
+		size: Size.small,
+		price: { min: 239689, max: 292954, avg: 266322 },
+		owners: [ Factions.ownerless ],
+		thrust: { forward: 488, reverse: 555 },
+		travel: { thrust: 1, attack: 1, charge: 0, release: 0 },
+		production: [
+		{
+			time: 10,
+			amount: 1,
+			method: 'default',
+			name: '常规',
+			wares: [
+				{ ware: 'antimatterconverters', amount: 55 },
+				{ ware: 'energycells', amount: 499 },
+				{ ware: 'engineparts', amount: 85 },
+			],
+		},
+		]
+	},
+	{
+		id: 'engine_ter_l_allround_02_mk1',
+		version: 1,
+		name: 'TER L 尖端引擎 Mk1',
+		description: '无可用信息',
+		race: Races.terran,
 		type: EquipmentType.engines,
 		equipmentClass: EquipmentClass.engine,
 		size: Size.large,
-		hull: 4018,
-		price: { min: 258153, max: 480054, avg: 368448 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		thrust: { forward: 5200, reverse: 5200 },
-		travel: { thrust: 16.77, attack: 72.8, charge: 17, release: 0 },
+		hull: 4000,
+		price: { min: 754907, max: 922664, avg: 838785 },
+		owners: [ Factions.terran ],
+		thrust: { forward: 3696, reverse: 4250.4 },
+		travel: { thrust: 32, attack: 66, charge: 8, release: 0 },
 		production: [
 		{
 			time: 20,
@@ -15994,54 +16127,38 @@ export const Equipments = [
 			method: 'default',
 			name: '常规',
 			wares: [
-				{ ware: 'antimatterconverters', amount: 129 },
-				{ ware: 'energycells', amount: 37 },
-				{ ware: 'engineparts', amount: 101 },
+				{ ware: 'antimatterconverters', amount: 295 },
+				{ ware: 'energycells', amount: 1000 },
+				{ ware: 'engineparts', amount: 175 },
 			],
 		},
-		]
-	},
-	{
-		id: 'engine_spl_l_travel_01_mk1',
-		version: 1,
-		name: 'SPL L 巡航引擎 Mk1',
-		description: '由于其尚武文化，Split引擎设计将纯推力置于一切要素之上。出于对战斗性能的优化，这些引擎很大程度上忽略了安全性、牺牲了巡航效率以获得更卓越的机动性。nn巡航引擎牺牲了助推和战斗能力，但有着更短的巡航充能时间、更高的巡航速度和更快的巡航加速能力。nnL级（大型）引擎只能安装于同级飞船上。nnMk I是基础型号。',
-		race: Races.split,
-		type: EquipmentType.engines,
-		equipmentClass: EquipmentClass.engine,
-		size: Size.large,
-		hull: 4018,
-		price: { min: 266600, max: 496641, avg: 380897 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		thrust: { forward: 4212, reverse: 4212 },
-		travel: { thrust: 23.29, attack: 69.2, charge: 17, release: 0 },
-		production: [
 		{
 			time: 20,
 			amount: 1,
-			method: 'default',
-			name: '常规',
+			method: 'terran',
+			name: 'Terran',
 			wares: [
-				{ ware: 'antimatterconverters', amount: 111 },
-				{ ware: 'energycells', amount: 94 },
-				{ ware: 'engineparts', amount: 143 },
+				{ ware: 'computronicsubstrate', amount: 28 },
+				{ ware: 'energycells', amount: 1650 },
+				{ ware: 'metallicmicrolattice', amount: 245 },
+				{ ware: 'siliconcarbide', amount: 45 },
 			],
 		},
 		]
 	},
 	{
-		id: 'engine_spl_m_allround_01_mk1',
+		id: 'engine_ter_m_virtual_01_mk1',
 		version: 1,
-		name: 'SPL M 均衡引擎 Mk1',
-		description: '由于其尚武文化，Split引擎设计将纯推力置于一切要素之上。出于对战斗性能的优化，这些引擎很大程度上忽略了安全性、牺牲了巡航效率以获得更卓越的机动性。nn追求泛用性的舰长通常会选择均衡引擎。它拥有均衡的巡航速度和短时加速能力。nnM级（中型）引擎只能安装于同级飞船上。nn这款推进器通常有三种型号：Mk I、Mk II和Mk III，性能依序递增。',
-		race: Races.split,
+		name: 'TER M 尖端引擎 Mk1',
+		description: '无可用信息',
+		race: Races.terran,
 		type: EquipmentType.engines,
 		equipmentClass: EquipmentClass.engine,
 		size: Size.medium,
-		price: { min: 8721, max: 16644, avg: 12654 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		thrust: { forward: 1300, reverse: 1300 },
-		travel: { thrust: 5.772, attack: 33.6, charge: 7, release: 0 },
+		price: { min: 76478, max: 114717, avg: 95598 },
+		owners: [ Factions.terran ],
+		thrust: { forward: 1170, reverse: 2004 },
+		travel: { thrust: 8, attack: 18.5, charge: 0, release: 0 },
 		production: [
 		{
 			time: 15,
@@ -16049,266 +16166,38 @@ export const Equipments = [
 			method: 'default',
 			name: '常规',
 			wares: [
-				{ ware: 'energycells', amount: 25 },
-				{ ware: 'engineparts', amount: 10 },
+				{ ware: 'antimatterconverters', amount: 35 },
+				{ ware: 'energycells', amount: 60 },
+				{ ware: 'engineparts', amount: 22 },
 			],
 		},
-		]
-	},
-	{
-		id: 'engine_spl_m_allround_01_mk2',
-		version: 1,
-		name: 'SPL M 均衡引擎 Mk2',
-		description: '由于其尚武文化，Split引擎设计将纯推力置于一切要素之上。出于对战斗性能的优化，这些引擎很大程度上忽略了安全性、牺牲了巡航效率以获得更卓越的机动性。nn追求泛用性的舰长通常会选择均衡引擎。它拥有均衡的巡航速度和短时加速能力。nnM级（中型）引擎只能安装于同级飞船上。nn这款推进器通常有三种型号：Mk I、Mk II和Mk III，性能依序递增。',
-		race: Races.split,
-		type: EquipmentType.engines,
-		equipmentClass: EquipmentClass.engine,
-		size: Size.medium,
-		price: { min: 43115, max: 81054, avg: 61948 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		thrust: { forward: 1560, reverse: 1560 },
-		travel: { thrust: 5.772, attack: 33.6, charge: 7, release: 0 },
-		production: [
 		{
 			time: 15,
 			amount: 1,
-			method: 'default',
-			name: '常规',
+			method: 'terran',
+			name: 'Terran',
 			wares: [
-				{ ware: 'antimatterconverters', amount: 7 },
-				{ ware: 'energycells', amount: 58 },
-				{ ware: 'engineparts', amount: 41 },
+				{ ware: 'computronicsubstrate', amount: 3 },
+				{ ware: 'energycells', amount: 265 },
+				{ ware: 'metallicmicrolattice', amount: 38 },
+				{ ware: 'siliconcarbide', amount: 5 },
 			],
 		},
 		]
 	},
 	{
-		id: 'engine_spl_m_allround_01_mk3',
+		id: 'engine_ter_s_virtual_01_mk1',
 		version: 1,
-		name: 'SPL M 均衡引擎 Mk3',
-		description: '由于其尚武文化，Split引擎设计将纯推力置于一切要素之上。出于对战斗性能的优化，这些引擎很大程度上忽略了安全性、牺牲了巡航效率以获得更卓越的机动性。nn追求泛用性的舰长通常会选择均衡引擎。它拥有均衡的巡航速度和短时加速能力。nnM级（中型）引擎只能安装于同级飞船上。nn这款推进器通常有三种型号：Mk I、Mk II和Mk III，性能依序递增。',
-		race: Races.split,
-		type: EquipmentType.engines,
-		equipmentClass: EquipmentClass.engine,
-		size: Size.medium,
-		price: { min: 210854, max: 392833, avg: 301234 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		thrust: { forward: 1755, reverse: 1755 },
-		travel: { thrust: 5.772, attack: 33.6, charge: 7, release: 0 },
-		production: [
-		{
-			time: 15,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'antimatterconverters', amount: 73 },
-				{ ware: 'energycells', amount: 84 },
-				{ ware: 'engineparts', amount: 141 },
-			],
-		},
-		]
-	},
-	{
-		id: 'engine_spl_m_combat_01_mk1',
-		version: 1,
-		name: 'SPL M 战斗引擎 Mk1',
-		description: '由于其尚武文化，Split引擎设计将纯推力置于一切要素之上。出于对战斗性能的优化，这些引擎很大程度上忽略了安全性、牺牲了巡航效率以获得更卓越的机动性。nn战斗引擎着重于爆发力，能提供对战斗至关重要的加速度和机动性。nnM级（中型）引擎只能安装于同级飞船上。nn这款推进器通常有三种型号：Mk I、Mk II和Mk III，性能依序递增。 不过，Mk IV是Split开发的实验型号。该型号移除了所有安全措施，速度非常快。飞行员们报告称，操作这型号不仅需要高超的技能，还需要有钢铁般的意志。',
-		race: Races.split,
-		type: EquipmentType.engines,
-		equipmentClass: EquipmentClass.engine,
-		size: Size.medium,
-		price: { min: 10078, max: 19374, avg: 14695 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		thrust: { forward: 1482, reverse: 1482 },
-		travel: { thrust: 4.56, attack: 38.6, charge: 5, release: 0 },
-		production: [
-		{
-			time: 15,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'energycells', amount: 36 },
-				{ ware: 'engineparts', amount: 11 },
-			],
-		},
-		]
-	},
-	{
-		id: 'engine_spl_m_combat_01_mk2',
-		version: 1,
-		name: 'SPL M 战斗引擎 Mk2',
-		description: '由于其尚武文化，Split引擎设计将纯推力置于一切要素之上。出于对战斗性能的优化，这些引擎很大程度上忽略了安全性、牺牲了巡航效率以获得更卓越的机动性。nn战斗引擎着重于爆发力，能提供对战斗至关重要的加速度和机动性。nnM级（中型）引擎只能安装于同级飞船上。nn这款推进器通常有三种型号：Mk I、Mk II和Mk III，性能依序递增。 不过，Mk IV是Split开发的实验型号。该型号移除了所有安全措施，速度非常快。飞行员们报告称，操作这型号不仅需要高超的技能，还需要有钢铁般的意志。',
-		race: Races.split,
-		type: EquipmentType.engines,
-		equipmentClass: EquipmentClass.engine,
-		size: Size.medium,
-		price: { min: 51756, max: 96917, avg: 74180 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		thrust: { forward: 1778.4, reverse: 1778.4 },
-		travel: { thrust: 4.56, attack: 38.6, charge: 5, release: 0 },
-		production: [
-		{
-			time: 15,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'antimatterconverters', amount: 13 },
-				{ ware: 'energycells', amount: 48 },
-				{ ware: 'engineparts', amount: 42 },
-			],
-		},
-		]
-	},
-	{
-		id: 'engine_spl_m_combat_01_mk3',
-		version: 1,
-		name: 'SPL M 战斗引擎 Mk3',
-		description: '由于其尚武文化，Split引擎设计将纯推力置于一切要素之上。出于对战斗性能的优化，这些引擎很大程度上忽略了安全性、牺牲了巡航效率以获得更卓越的机动性。nn战斗引擎着重于爆发力，能提供对战斗至关重要的加速度和机动性。nnM级（中型）引擎只能安装于同级飞船上。nn这款推进器通常有三种型号：Mk I、Mk II和Mk III，性能依序递增。 不过，Mk IV是Split开发的实验型号。该型号移除了所有安全措施，速度非常快。飞行员们报告称，操作这型号不仅需要高超的技能，还需要有钢铁般的意志。',
-		race: Races.split,
-		type: EquipmentType.engines,
-		equipmentClass: EquipmentClass.engine,
-		size: Size.medium,
-		price: { min: 253468, max: 472712, avg: 362360 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		thrust: { forward: 2000.7, reverse: 2000.7 },
-		travel: { thrust: 4.56, attack: 38.6, charge: 5, release: 0 },
-		production: [
-		{
-			time: 15,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'antimatterconverters', amount: 87 },
-				{ ware: 'energycells', amount: 126 },
-				{ ware: 'engineparts', amount: 169 },
-			],
-		},
-		]
-	},
-	{
-		id: 'engine_spl_m_combat_01_mk4',
-		version: 1,
-		name: 'SPL M 战斗引擎 Mk4',
-		description: '由于其尚武文化，Split引擎设计将纯推力置于一切要素之上。出于对战斗性能的优化，这些引擎很大程度上忽略了安全性、牺牲了巡航效率以获得更卓越的机动性。nn战斗引擎着重于爆发力，能提供对战斗至关重要的加速度和机动性。nnM级（中型）引擎只能安装于同级飞船上。nn这款推进器通常有三种型号：Mk I、Mk II和Mk III，性能依序递增。 不过，Mk IV是Split开发的实验型号。该型号移除了所有安全措施，速度非常快。飞行员们报告称，操作这型号不仅需要高超的技能，还需要有钢铁般的意志。',
-		race: Races.split,
-		type: EquipmentType.engines,
-		equipmentClass: EquipmentClass.engine,
-		size: Size.medium,
-		price: { min: 1267862, max: 2363619, avg: 1811825 },
-		owners: [ Factions.court, Factions.split ],
-		thrust: { forward: 2104, reverse: 2104 },
-		travel: { thrust: 4.56, attack: 38.6, charge: 5, release: 0 },
-		production: [
-		{
-			time: 15,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'antimatterconverters', amount: 335 },
-				{ ware: 'energycells', amount: 636 },
-				{ ware: 'engineparts', amount: 1039 },
-			],
-		},
-		]
-	},
-	{
-		id: 'engine_spl_m_travel_01_mk1',
-		version: 1,
-		name: 'SPL M 巡航引擎 Mk1',
-		description: '由于其尚武文化，Split引擎设计将纯推力置于一切要素之上。出于对战斗性能的优化，这些引擎很大程度上忽略了安全性、牺牲了巡航效率以获得更卓越的机动性。nn巡航引擎牺牲了助推和战斗能力，但有着更短的巡航充能时间、更高的巡航速度和更快的巡航加速能力。nnM级（中型）引擎只能安装于同级飞船上。nn这款推进器通常有三种型号：Mk I、Mk II和Mk III，性能依序递增。',
-		race: Races.split,
-		type: EquipmentType.engines,
-		equipmentClass: EquipmentClass.engine,
-		size: Size.medium,
-		price: { min: 9348, max: 18023, avg: 13657 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		thrust: { forward: 1170, reverse: 1170 },
-		travel: { thrust: 8.02, attack: 31.9, charge: 7, release: 0 },
-		production: [
-		{
-			time: 15,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'energycells', amount: 36 },
-				{ ware: 'engineparts', amount: 10 },
-			],
-		},
-		]
-	},
-	{
-		id: 'engine_spl_m_travel_01_mk2',
-		version: 1,
-		name: 'SPL M 巡航引擎 Mk2',
-		description: '由于其尚武文化，Split引擎设计将纯推力置于一切要素之上。出于对战斗性能的优化，这些引擎很大程度上忽略了安全性、牺牲了巡航效率以获得更卓越的机动性。nn巡航引擎牺牲了助推和战斗能力，但有着更短的巡航充能时间、更高的巡航速度和更快的巡航加速能力。nnM级（中型）引擎只能安装于同级飞船上。nn这款推进器通常有三种型号：Mk I、Mk II和Mk III，性能依序递增。',
-		race: Races.split,
-		type: EquipmentType.engines,
-		equipmentClass: EquipmentClass.engine,
-		size: Size.medium,
-		price: { min: 48165, max: 90288, avg: 69084 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		thrust: { forward: 1404, reverse: 1404 },
-		travel: { thrust: 8.02, attack: 31.9, charge: 7, release: 0 },
-		production: [
-		{
-			time: 15,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'antimatterconverters', amount: 13 },
-				{ ware: 'energycells', amount: 49 },
-				{ ware: 'engineparts', amount: 37 },
-			],
-		},
-		]
-	},
-	{
-		id: 'engine_spl_m_travel_01_mk3',
-		version: 1,
-		name: 'SPL M 巡航引擎 Mk3',
-		description: '由于其尚武文化，Split引擎设计将纯推力置于一切要素之上。出于对战斗性能的优化，这些引擎很大程度上忽略了安全性、牺牲了巡航效率以获得更卓越的机动性。nn巡航引擎牺牲了助推和战斗能力，但有着更短的巡航充能时间、更高的巡航速度和更快的巡航加速能力。nnM级（中型）引擎只能安装于同级飞船上。nn这款推进器通常有三种型号：Mk I、Mk II和Mk III，性能依序递增。',
-		race: Races.split,
-		type: EquipmentType.engines,
-		equipmentClass: EquipmentClass.engine,
-		size: Size.medium,
-		price: { min: 243287, max: 452449, avg: 347073 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		thrust: { forward: 1579.5, reverse: 1579.5 },
-		travel: { thrust: 8.02, attack: 31.9, charge: 7, release: 0 },
-		production: [
-		{
-			time: 15,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'antimatterconverters', amount: 52 },
-				{ ware: 'energycells', amount: 73 },
-				{ ware: 'engineparts', amount: 227 },
-			],
-		},
-		]
-	},
-	{
-		id: 'engine_spl_s_allround_01_mk1',
-		version: 1,
-		name: 'SPL S 均衡引擎 Mk1',
-		description: '由于其尚武文化，Split引擎设计将纯推力置于一切要素之上。出于对战斗性能的优化，这些引擎很大程度上忽略了安全性、牺牲了巡航效率以获得更卓越的机动性。nn追求泛用性的舰长通常会选择均衡引擎。它拥有均衡的巡航速度和短时加速能力。nnS级（小型）引擎只能安装于同级飞船上。nn这款推进器通常有三种型号：Mk I、Mk II和Mk III，性能依序递增。',
-		race: Races.split,
+		name: 'TER S 尖端引擎 Mk1',
+		description: '无可用信息',
+		race: Races.terran,
 		type: EquipmentType.engines,
 		equipmentClass: EquipmentClass.engine,
 		size: Size.small,
-		price: { min: 3443, max: 6812, avg: 5119 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		thrust: { forward: 510, reverse: 510 },
-		travel: { thrust: 7.8, attack: 28, charge: 5, release: 0 },
+		price: { min: 15563, max: 23344, avg: 19453 },
+		owners: [ Factions.terran ],
+		thrust: { forward: 462, reverse: 554.4 },
+		travel: { thrust: 13, attack: 16, charge: 1, release: 0 },
 		production: [
 		{
 			time: 10,
@@ -16316,582 +16205,154 @@ export const Equipments = [
 			method: 'default',
 			name: '常规',
 			wares: [
-				{ ware: 'energycells', amount: 22 },
-				{ ware: 'engineparts', amount: 3 },
-			],
-		},
-		]
-	},
-	{
-		id: 'engine_spl_s_allround_01_mk2',
-		version: 1,
-		name: 'SPL S 均衡引擎 Mk2',
-		description: '由于其尚武文化，Split引擎设计将纯推力置于一切要素之上。出于对战斗性能的优化，这些引擎很大程度上忽略了安全性、牺牲了巡航效率以获得更卓越的机动性。nn追求泛用性的舰长通常会选择均衡引擎。它拥有均衡的巡航速度和短时加速能力。nnS级（小型）引擎只能安装于同级飞船上。nn这款推进器通常有三种型号：Mk I、Mk II和Mk III，性能依序递增。',
-		race: Races.split,
-		type: EquipmentType.engines,
-		equipmentClass: EquipmentClass.engine,
-		size: Size.small,
-		price: { min: 19551, max: 37244, avg: 28340 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		thrust: { forward: 612, reverse: 612 },
-		travel: { thrust: 7.8, attack: 28, charge: 5, release: 0 },
-		production: [
-		{
-			time: 10,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'antimatterconverters', amount: 3 },
-				{ ware: 'energycells', amount: 51 },
-				{ ware: 'engineparts', amount: 17 },
-			],
-		},
-		]
-	},
-	{
-		id: 'engine_spl_s_allround_01_mk3',
-		version: 1,
-		name: 'SPL S 均衡引擎 Mk3',
-		description: '由于其尚武文化，Split引擎设计将纯推力置于一切要素之上。出于对战斗性能的优化，这些引擎很大程度上忽略了安全性、牺牲了巡航效率以获得更卓越的机动性。nn追求泛用性的舰长通常会选择均衡引擎。它拥有均衡的巡航速度和短时加速能力。nnS级（小型）引擎只能安装于同级飞船上。nn这款推进器通常有三种型号：Mk I、Mk II和Mk III，性能依序递增。',
-		race: Races.split,
-		type: EquipmentType.engines,
-		equipmentClass: EquipmentClass.engine,
-		size: Size.small,
-		price: { min: 91360, max: 171342, avg: 131077 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		thrust: { forward: 688.5, reverse: 688.5 },
-		travel: { thrust: 7.8, attack: 28, charge: 5, release: 0 },
-		production: [
-		{
-			time: 10,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'antimatterconverters', amount: 23 },
-				{ ware: 'energycells', amount: 98 },
-				{ ware: 'engineparts', amount: 73 },
-			],
-		},
-		]
-	},
-	{
-		id: 'engine_spl_s_combat_01_mk1',
-		version: 1,
-		name: 'SPL S 战斗引擎 Mk1',
-		description: '由于其尚武文化，Split引擎设计将纯推力置于一切要素之上。出于对战斗性能的优化，这些引擎很大程度上忽略了安全性、牺牲了巡航效率以获得更卓越的机动性。nn战斗引擎着重于爆发力，能提供对战斗至关重要的加速度和机动性。nnS级（小型）引擎只能安装于同级飞船上。nn这款推进器通常有三种型号：Mk I、Mk II和Mk III，性能依序递增。 不过，Mk IV是Split开发的实验型号。该型号移除了所有安全措施，速度非常快。飞行员们报告称，操作这型号不仅需要高超的技能，还需要有钢铁般的意志。',
-		race: Races.split,
-		type: EquipmentType.engines,
-		equipmentClass: EquipmentClass.engine,
-		size: Size.small,
-		price: { min: 4902, max: 9513, avg: 7193 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		thrust: { forward: 581.4, reverse: 581.4 },
-		travel: { thrust: 6.16, attack: 32.2, charge: 3, release: 0 },
-		production: [
-		{
-			time: 10,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'energycells', amount: 22 },
-				{ ware: 'engineparts', amount: 5 },
-			],
-		},
-		]
-	},
-	{
-		id: 'engine_spl_s_combat_01_mk2',
-		version: 1,
-		name: 'SPL S 战斗引擎 Mk2',
-		description: '由于其尚武文化，Split引擎设计将纯推力置于一切要素之上。出于对战斗性能的优化，这些引擎很大程度上忽略了安全性、牺牲了巡航效率以获得更卓越的机动性。nn战斗引擎着重于爆发力，能提供对战斗至关重要的加速度和机动性。nnS级（小型）引擎只能安装于同级飞船上。nn这款推进器通常有三种型号：Mk I、Mk II和Mk III，性能依序递增。 不过，Mk IV是Split开发的实验型号。该型号移除了所有安全措施，速度非常快。飞行员们报告称，操作这型号不仅需要高超的技能，还需要有钢铁般的意志。',
-		race: Races.split,
-		type: EquipmentType.engines,
-		equipmentClass: EquipmentClass.engine,
-		size: Size.small,
-		price: { min: 29617, max: 55883, avg: 42659 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		thrust: { forward: 697.68, reverse: 697.68 },
-		travel: { thrust: 6.16, attack: 32.2, charge: 3, release: 0 },
-		production: [
-		{
-			time: 10,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'antimatterconverters', amount: 5 },
 				{ ware: 'energycells', amount: 50 },
-				{ ware: 'engineparts', amount: 27 },
+				{ ware: 'engineparts', amount: 15 },
 			],
 		},
-		]
-	},
-	{
-		id: 'engine_spl_s_combat_01_mk3',
-		version: 1,
-		name: 'SPL S 战斗引擎 Mk3',
-		description: '由于其尚武文化，Split引擎设计将纯推力置于一切要素之上。出于对战斗性能的优化，这些引擎很大程度上忽略了安全性、牺牲了巡航效率以获得更卓越的机动性。nn战斗引擎着重于爆发力，能提供对战斗至关重要的加速度和机动性。nnS级（小型）引擎只能安装于同级飞船上。nn这款推进器通常有三种型号：Mk I、Mk II和Mk III，性能依序递增。 不过，Mk IV是Split开发的实验型号。该型号移除了所有安全措施，速度非常快。飞行员们报告称，操作这型号不仅需要高超的技能，还需要有钢铁般的意志。',
-		race: Races.split,
-		type: EquipmentType.engines,
-		equipmentClass: EquipmentClass.engine,
-		size: Size.small,
-		price: { min: 134474, max: 250800, avg: 192227 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		thrust: { forward: 784.89, reverse: 784.89 },
-		travel: { thrust: 6.16, attack: 32.2, charge: 3, release: 0 },
-		production: [
 		{
 			time: 10,
 			amount: 1,
-			method: 'default',
-			name: '常规',
+			method: 'terran',
+			name: 'Terran',
 			wares: [
-				{ ware: 'antimatterconverters', amount: 37 },
-				{ ware: 'energycells', amount: 72 },
-				{ ware: 'engineparts', amount: 107 },
+				{ ware: 'energycells', amount: 155 },
+				{ ware: 'metallicmicrolattice', amount: 15 },
+				{ ware: 'siliconcarbide', amount: 4 },
 			],
 		},
 		]
 	},
 	{
-		id: 'engine_spl_s_combat_01_mk4',
+		id: 'engine_xen_xl_mothership_01_allround_mk1',
 		version: 1,
-		name: 'SPL S 战斗引擎 Mk4',
-		description: '由于其尚武文化，Split引擎设计将纯推力置于一切要素之上。出于对战斗性能的优化，这些引擎很大程度上忽略了安全性、牺牲了巡航效率以获得更卓越的机动性。nn战斗引擎着重于爆发力，能提供对战斗至关重要的加速度和机动性。nnS级（小型）引擎只能安装于同级飞船上。nn这款推进器通常有三种型号：Mk I、Mk II和Mk III，性能依序递增。 不过，Mk IV是Split开发的实验型号。该型号移除了所有安全措施，速度非常快。飞行员们报告称，操作这型号不仅需要高超的技能，还需要有钢铁般的意志。',
-		race: Races.split,
-		type: EquipmentType.engines,
-		equipmentClass: EquipmentClass.engine,
-		size: Size.small,
-		price: { min: 672885, max: 1254040, avg: 961168 },
-		owners: [ Factions.court, Factions.split ],
-		thrust: { forward: 826, reverse: 826 },
-		travel: { thrust: 6.16, attack: 32.2, charge: 3, release: 0 },
-		production: [
-		{
-			time: 10,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'antimatterconverters', amount: 95 },
-				{ ware: 'energycells', amount: 361 },
-				{ ware: 'engineparts', amount: 710 },
-			],
-		},
-		]
-	},
-	{
-		id: 'engine_spl_s_travel_01_mk1',
-		version: 1,
-		name: 'SPL S 巡航引擎 Mk1',
-		description: '由于其尚武文化，Split引擎设计将纯推力置于一切要素之上。出于对战斗性能的优化，这些引擎很大程度上忽略了安全性、牺牲了巡航效率以获得更卓越的机动性。nn巡航引擎牺牲了助推和战斗能力，但有着更短的巡航充能时间、更高的巡航速度和更快的巡航加速能力。nnS级（小型）引擎只能安装于同级飞船上。nn这款推进器通常有三种型号：Mk I、Mk II和Mk III，性能依序递增。',
-		race: Races.split,
-		type: EquipmentType.engines,
-		equipmentClass: EquipmentClass.engine,
-		size: Size.small,
-		price: { min: 4172, max: 8162, avg: 6156 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		thrust: { forward: 459, reverse: 459 },
-		travel: { thrust: 10.83, attack: 26.6, charge: 5, release: 0 },
-		production: [
-		{
-			time: 10,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'energycells', amount: 22 },
-				{ ware: 'engineparts', amount: 4 },
-			],
-		},
-		]
-	},
-	{
-		id: 'engine_spl_s_travel_01_mk2',
-		version: 1,
-		name: 'SPL S 巡航引擎 Mk2',
-		description: '由于其尚武文化，Split引擎设计将纯推力置于一切要素之上。出于对战斗性能的优化，这些引擎很大程度上忽略了安全性、牺牲了巡航效率以获得更卓越的机动性。nn巡航引擎牺牲了助推和战斗能力，但有着更短的巡航充能时间、更高的巡航速度和更快的巡航加速能力。nnS级（小型）引擎只能安装于同级飞船上。nn这款推进器通常有三种型号：Mk I、Mk II和Mk III，性能依序递增。',
-		race: Races.split,
-		type: EquipmentType.engines,
-		equipmentClass: EquipmentClass.engine,
-		size: Size.small,
-		price: { min: 25342, max: 47977, avg: 36583 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		thrust: { forward: 550.8, reverse: 550.8 },
-		travel: { thrust: 10.83, attack: 26.6, charge: 5, release: 0 },
-		production: [
-		{
-			time: 10,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'antimatterconverters', amount: 4 },
-				{ ware: 'energycells', amount: 51 },
-				{ ware: 'engineparts', amount: 23 },
-			],
-		},
-		]
-	},
-	{
-		id: 'engine_spl_s_travel_01_mk3',
-		version: 1,
-		name: 'SPL S 巡航引擎 Mk3',
-		description: '由于其尚武文化，Split引擎设计将纯推力置于一切要素之上。出于对战斗性能的优化，这些引擎很大程度上忽略了安全性、牺牲了巡航效率以获得更卓越的机动性。nn巡航引擎牺牲了助推和战斗能力，但有着更短的巡航充能时间、更高的巡航速度和更快的巡航加速能力。nnS级（小型）引擎只能安装于同级飞船上。nn这款推进器通常有三种型号：Mk I、Mk II和Mk III，性能依序递增。',
-		race: Races.split,
-		type: EquipmentType.engines,
-		equipmentClass: EquipmentClass.engine,
-		size: Size.small,
-		price: { min: 123724, max: 230850, avg: 176882 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		thrust: { forward: 619.65, reverse: 619.65 },
-		travel: { thrust: 10.83, attack: 26.6, charge: 5, release: 0 },
-		production: [
-		{
-			time: 10,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'antimatterconverters', amount: 23 },
-				{ ware: 'energycells', amount: 77 },
-				{ ware: 'engineparts', amount: 119 },
-			],
-		},
-		]
-	},
-	{
-		id: 'engine_spl_xl_allround_01_mk1',
-		version: 1,
-		name: 'SPL XL 均衡引擎 Mk1',
-		description: '由于其尚武文化，Split引擎设计将纯推力置于一切要素之上。出于对战斗性能的优化，这些引擎很大程度上忽略了安全性、牺牲了巡航效率以获得更卓越的机动性。nn追求泛用性的舰长通常会选择均衡引擎。它拥有均衡的巡航速度和短时加速能力。nnXL级（特大型）引擎只能安装于同级飞船上。nnMk I是基础型号。',
-		race: Races.split,
+		name: 'Xenon XL 引擎',
+		description: '无可用信息',
+		race: Races.xenon,
 		type: EquipmentType.engines,
 		equipmentClass: EquipmentClass.engine,
 		size: Size.extralarge,
-		hull: 9899,
-		price: { min: 340974, max: 633834, avg: 486335 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		thrust: { forward: 13715, reverse: 13715 },
-		travel: { thrust: 16.77, attack: 72.8, charge: 17, release: 0 },
+		hull: 151600,
+		price: { min: 498332, max: 702468, avg: 600400 },
+		owners: [ Factions.xenon ],
+		thrust: { forward: 35312, reverse: 38844 },
 		production: [
 		{
-			time: 30,
+			time: 1,
 			amount: 1,
 			method: 'default',
-			name: '常规',
+			name: 'Xenon',
 			wares: [
-				{ ware: 'antimatterconverters', amount: 92 },
-				{ ware: 'energycells', amount: 78 },
-				{ ware: 'engineparts', amount: 283 },
+				{ ware: 'energycells', amount: 80 },
+				{ ware: 'ore', amount: 660 },
+				{ ware: 'silicon', amount: 660 },
 			],
 		},
 		]
 	},
 	{
-		id: 'engine_spl_xl_travel_01_mk1',
+		id: 'missile_flagship_heavy_mk1',
 		version: 1,
-		name: 'SPL XL 巡航引擎 Mk1',
-		description: '由于其尚武文化，Split引擎设计将纯推力置于一切要素之上。出于对战斗性能的优化，这些引擎很大程度上忽略了安全性、牺牲了巡航效率以获得更卓越的机动性。nn巡航引擎牺牲了助推和战斗能力，但有着更短的巡航充能时间、更高的巡航速度和更快的巡航加速能力。nnXL级（特大型）引擎只能安装于同级飞船上。nnMk I是基础型号。',
-		race: Races.split,
-		type: EquipmentType.engines,
-		equipmentClass: EquipmentClass.engine,
-		size: Size.extralarge,
-		hull: 9955,
-		price: { min: 352716, max: 656275, avg: 503356 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		thrust: { forward: 11109.15, reverse: 11109.15 },
-		travel: { thrust: 23.29, attack: 69.2, charge: 17, release: 0 },
-		production: [
-		{
-			time: 30,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'antimatterconverters', amount: 79 },
-				{ ware: 'energycells', amount: 120 },
-				{ ware: 'engineparts', amount: 321 },
-			],
-		},
-		]
-	},
-	{
-		id: 'missile_disruptor_light_mk1',
-		version: 1,
-		name: '轻型 干扰者导弹 Mk1',
-		description: '干扰者导弹或许是当今最阴毒的导弹武器。这种导弹很可能诞生于对断筋电磁脉冲导弹的逆向工程。断筋作为非杀伤性武器不会永久伤害目标和其船员，干扰者导弹可不受这种限制。依靠改装过的断筋游隼引擎，它追踪目标时能达到堪称恐怖的速度。当这种导弹足够接近目标后，它发动的攻击毫不手软，不仅仅止步于释放一次电磁脉冲，还会自发过载其引擎引发爆炸。电磁脉冲席卷目标，和紧随其后的剧烈爆炸一起对目标飞船的控制和导航系统造成剧烈破坏。这种程度的干扰足以触发目标飞船系统的自我保护进程紧急关闭推进系统。在推进系统自检重启的时间内，目标飞船都将处于瘫痪状态。和断筋类似，由于其游隼引擎系统的速度实在太快，干扰者导弹会比较难以控制。',
+		name: '重型 弹幕导弹 Mk1',
+		description: '为大量使用而设计，这类导弹能够在战场上形成一片密集的火力覆盖区。其主要用于对抗体积较大、速度较慢的M级和L级舰船，这些舰船无法避开向它们迫近的弹幕爆炸墙。',
 		type: EquipmentType.missiles,
 		equipmentClass: EquipmentClass.missile,
-		explosionDamage: 896,
-		hull: 1,
-		price: { min: 1387, max: 1877, avg: 1632 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		production: [
-		{
-			time: 10,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'energycells', amount: 15 },
-				{ ware: 'missilecomponents', amount: 3 },
-				{ ware: 'smartchips', amount: 2 },
-			],
-		},
-		]
-	},
-	{
-		id: 'missile_interceptor_light_mk1',
-		version: 1,
-		name: '轻型 拦截者导弹 Mk1',
-		description: '坚守者、守护者、护卫。这种武器系统有许多名字，几乎所有的名字都包含某种防御含义。它是极少数完全从防御角度出发的武器设计之一。几乎在Split劫掠飞船大量涌入的同一时间，该武器的蓝图被匿名送到许多势力手中。虽然来源成谜，但是该系统已经成为一种现今广泛使用且备受称赞的工具，常常作为贸易和货运船只上的防御性炮塔出现，也常常在许多星区的防御性设施上看到。虽然该系统最初被设计为一种防御性的反导工具，但它在震慑潜在进攻者方面同样有效。它的装填式开火方式让遭到攻击的飞船能在短时间内爆发出惊人的防御火力，通常足以赶跑或摧毁临时起意的攻击者。',
-		type: EquipmentType.missiles,
-		equipmentClass: EquipmentClass.missile,
-		explosionDamage: 100,
-		hull: 1,
-		price: { min: 1267, max: 1714, avg: 1490 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		production: [
-		{
-			time: 10,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'energycells', amount: 12 },
-				{ ware: 'missilecomponents', amount: 11 },
-				{ ware: 'smartchips', amount: 1 },
-			],
-		},
-		]
-	},
-	{
-		id: 'missile_scatter_heavy_mk1',
-		version: 1,
-		name: '重型 散射导弹 Mk1',
-		description: '重型散射导弹是一种两段式武器。为了适应标准发射器的尺寸，且在替换了常规前向主武器的弹药发射器系统上实现火箭速射，这种妥协是必要的。该武器的第一阶段是一个可分离的外壳内部的布线和装载点容纳有多个独立的火箭弹。当导弹离开发射器并距离飞船有一定安全距离后，外壳就会分裂成四片脱离内部框架结构。几毫秒后，内含的小型独立火箭弹会脱离框架并启动推进器快速飞往目标。该武器和霰弹炮非常类似，只不过其发射的是火箭弹而非弹片。nn高爆和燃烧弹头的联合使用可同时对敌舰多点实施大范围打击，是一种极为有效的过载敌人损管能力的攻击手段。不过，这种武器精度极差，只适用于贴脸攻击L和XL级目标。',
-		type: EquipmentType.missiles,
-		equipmentClass: EquipmentClass.missile,
-		explosionDamage: 400,
+		explosionDamage: 1100,
 		hull: 20,
-		price: { min: 1078, max: 1458, avg: 1268 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
+		price: { min: 1570, max: 2120, avg: 1845 },
+		owners: [ Factions.ownerless ],
 		production: [
 		{
-			time: 10,
+			time: 3,
 			amount: 1,
 			method: 'default',
 			name: '常规',
 			wares: [
-				{ ware: 'energycells', amount: 5 },
-				{ ware: 'missilecomponents', amount: 24 },
+				{ ware: 'energycells', amount: 8 },
+				{ ware: 'missilecomponents', amount: 10 },
+				{ ware: 'smartchips', amount: 3 },
+			],
+		},
+		{
+			time: 3,
+			amount: 1,
+			method: 'closedloop',
+			name: '闭环',
+			wares: [
+				{ ware: 'energycells', amount: 7 },
+				{ ware: 'hullparts', amount: 1 },
+			],
+		},
+		{
+			time: 3,
+			amount: 1,
+			method: 'terran',
+			name: 'Terran',
+			wares: [
+				{ ware: 'energycells', amount: 8 },
+				{ ware: 'metallicmicrolattice', amount: 6 },
+				{ ware: 'siliconcarbide', amount: 1 },
 			],
 		},
 		]
 	},
 	{
-		id: 'missile_starburst_heavy_mk1',
+		id: 'missile_flagship_light_mk1',
 		version: 1,
-		name: '重型 星暴导弹 Mk1',
-		description: '"星爆"其名源于该导弹特殊的弹头。这种导弹体现了Split族"狠打"的脑回路。实际上有点太狠了，某种意义上来说，该导弹搭载的弹头或许是现今非鱼雷类型的导弹中威力最大的。这种武器恐怖的破坏力引发了不小的争议：一方面Split人尽力想保留其导弹分类以利于出口；另一方面非Split势力处于自身利益期望将其重新划分到鱼雷类别下。nn星爆采用了一种特殊的燃料形式，呈连续棒状占据了该武器的大部分长度。该燃料棒既是引擎推进剂，同时又是爆炸装药。燃料棒燃烧速度由向其上喷洒阻燃剂控制。一旦失去阻燃剂，燃烧会迅速失控，其机制非常类似于恒星生命末期形成的超新星爆发，只不过规模要小很多。',
+		name: '轻型 弹幕导弹 Mk1',
+		description: '为大量使用而设计，这类导弹可以为舰队提供反战斗机弹幕。它们具有快速灵活的重新瞄准能力，对任何一队小型飞船都可能构成严重威胁。',
 		type: EquipmentType.missiles,
 		equipmentClass: EquipmentClass.missile,
-		explosionDamage: 3800,
-		hull: 3,
-		price: { min: 1700, max: 2300, avg: 2000 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
+		explosionDamage: 550,
+		hull: 10,
+		price: { min: 1400, max: 1950, avg: 1680 },
+		owners: [ Factions.ownerless ],
 		production: [
 		{
-			time: 10,
+			time: 3,
 			amount: 1,
 			method: 'default',
 			name: '常规',
 			wares: [
-				{ ware: 'energycells', amount: 17 },
-				{ ware: 'missilecomponents', amount: 9 },
-				{ ware: 'smartchips', amount: 2 },
+				{ ware: 'energycells', amount: 8 },
+				{ ware: 'missilecomponents', amount: 8 },
+				{ ware: 'smartchips', amount: 3 },
+			],
+		},
+		{
+			time: 3,
+			amount: 1,
+			method: 'closedloop',
+			name: '闭环',
+			wares: [
+				{ ware: 'energycells', amount: 4 },
+				{ ware: 'hullparts', amount: 1 },
+			],
+		},
+		{
+			time: 3,
+			amount: 1,
+			method: 'terran',
+			name: 'Terran',
+			wares: [
+				{ ware: 'energycells', amount: 8 },
+				{ ware: 'metallicmicrolattice', amount: 5 },
+				{ ware: 'siliconcarbide', amount: 1 },
 			],
 		},
 		]
 	},
 	{
-		id: 'shield_spl_l_standard_01_mk1',
+		id: 'shield_arg_s_racer_01_mk1',
 		version: 1,
-		name: 'SPL L 护盾发生器 Mk1',
+		name: 'ARG S 护盾发生器 Mk1',
 		description: '无可用信息',
-		race: Races.split,
-		type: EquipmentType.shields,
-		equipmentClass: EquipmentClass.shieldgenerator,
-		size: Size.large,
-		hull: 3000,
-		recharge: { max: 33018, rate: 140, delay: 0 },
-		price: { min: 27782, max: 64068, avg: 45874 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		production: [
-		{
-			time: 20,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'energycells', amount: 104 },
-				{ ware: 'fieldcoils', amount: 5 },
-				{ ware: 'shieldcomponents', amount: 23 },
-			],
-		},
-		]
-	},
-	{
-		id: 'shield_spl_l_standard_01_mk2',
-		version: 1,
-		name: 'SPL L 护盾发生器 Mk2',
-		description: '无可用信息',
-		race: Races.split,
-		type: EquipmentType.shields,
-		equipmentClass: EquipmentClass.shieldgenerator,
-		size: Size.large,
-		hull: 3000,
-		recharge: { max: 39340, rate: 217, delay: 0 },
-		price: { min: 136139, max: 316589, avg: 226085 },
-		owners: [ Factions.court, Factions.split ],
-		production: [
-		{
-			time: 20,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'energycells', amount: 165 },
-				{ ware: 'fieldcoils', amount: 31 },
-				{ ware: 'shieldcomponents', amount: 129 },
-			],
-		},
-		]
-	},
-	{
-		id: 'shield_spl_m_standard_01_mk1',
-		version: 1,
-		name: 'SPL M 护盾发生器 Mk1',
-		description: '无可用信息',
-		race: Races.split,
-		type: EquipmentType.shields,
-		equipmentClass: EquipmentClass.shieldgenerator,
-		size: Size.medium,
-		hull: 500,
-		recharge: { max: 4375, rate: 21, delay: 0.36 },
-		price: { min: 8653, max: 19836, avg: 14227 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		production: [
-		{
-			time: 10,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'energycells', amount: 48 },
-				{ ware: 'fieldcoils', amount: 1 },
-				{ ware: 'shieldcomponents', amount: 7 },
-			],
-		},
-		]
-	},
-	{
-		id: 'shield_spl_m_standard_01_mk2',
-		version: 1,
-		name: 'SPL M 护盾发生器 Mk2',
-		description: '无可用信息',
-		race: Races.split,
-		type: EquipmentType.shields,
-		equipmentClass: EquipmentClass.shieldgenerator,
-		size: Size.medium,
-		hull: 500,
-		recharge: { max: 5213, rate: 33, delay: 0.36 },
-		price: { min: 39644, max: 91930, avg: 65687 },
-		owners: [ Factions.court, Factions.split ],
-		production: [
-		{
-			time: 10,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'energycells', amount: 84 },
-				{ ware: 'fieldcoils', amount: 6 },
-				{ ware: 'shieldcomponents', amount: 41 },
-			],
-		},
-		]
-	},
-	{
-		id: 'shield_spl_m_standard_02_mk1',
-		version: 1,
-		name: 'SPL M 护盾发生器 Mk1',
-		description: '无可用信息',
-		race: Races.split,
-		type: EquipmentType.shields,
-		equipmentClass: EquipmentClass.shieldgenerator,
-		size: Size.medium,
-		hull: 500,
-		recharge: { max: 4375, rate: 21, delay: 0.36 },
-		price: { min: 8653, max: 19836, avg: 14227 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		production: [
-		{
-			time: 10,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'energycells', amount: 48 },
-				{ ware: 'fieldcoils', amount: 1 },
-				{ ware: 'shieldcomponents', amount: 7 },
-			],
-		},
-		]
-	},
-	{
-		id: 'shield_spl_m_standard_02_mk2',
-		version: 1,
-		name: 'SPL M 护盾发生器 Mk2',
-		description: '无可用信息',
-		race: Races.split,
-		type: EquipmentType.shields,
-		equipmentClass: EquipmentClass.shieldgenerator,
-		size: Size.medium,
-		hull: 500,
-		recharge: { max: 5213, rate: 33, delay: 0.36 },
-		price: { min: 39644, max: 91930, avg: 65687 },
-		owners: [ Factions.court, Factions.split ],
-		production: [
-		{
-			time: 10,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'energycells', amount: 84 },
-				{ ware: 'fieldcoils', amount: 6 },
-				{ ware: 'shieldcomponents', amount: 41 },
-			],
-		},
-		]
-	},
-	{
-		id: 'shield_spl_s_standard_01_mk1',
-		version: 1,
-		name: 'SPL S 护盾发生器 Mk1',
-		description: '无可用信息',
-		race: Races.split,
+		race: Races.argon,
 		type: EquipmentType.shields,
 		equipmentClass: EquipmentClass.shieldgenerator,
 		size: Size.small,
-		recharge: { max: 703, rate: 67, delay: 8.9 },
-		price: { min: 929, max: 2132, avg: 1528 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
+		recharge: { max: 827, rate: 100, delay: 8 },
+		price: { min: 12223, max: 14939, avg: 13582 },
+		owners: [ Factions.ownerless ],
 		production: [
 		{
 			time: 10,
@@ -16899,24 +16360,50 @@ export const Equipments = [
 			method: 'default',
 			name: '常规',
 			wares: [
-				{ ware: 'energycells', amount: 5 },
-				{ ware: 'shieldcomponents', amount: 1 },
+				{ ware: 'energycells', amount: 14 },
+				{ ware: 'fieldcoils', amount: 3 },
+				{ ware: 'shieldcomponents', amount: 5 },
 			],
 		},
 		]
 	},
 	{
-		id: 'shield_spl_s_standard_01_mk2',
+		id: 'shield_gen_s_racer_01_mk1',
 		version: 1,
-		name: 'SPL S 护盾发生器 Mk2',
+		name: 'S 赛船护盾发生器 Mk1',
 		description: '无可用信息',
-		race: Races.split,
 		type: EquipmentType.shields,
 		equipmentClass: EquipmentClass.shieldgenerator,
 		size: Size.small,
-		recharge: { max: 840, rate: 103, delay: 8.9 },
-		price: { min: 6658, max: 15447, avg: 11035 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
+		recharge: { max: 827, rate: 82, delay: 12.1 },
+		price: { min: 13242, max: 16184, avg: 14713 },
+		owners: [ Factions.ownerless ],
+		production: [
+		{
+			time: 10,
+			amount: 1,
+			method: 'default',
+			name: '常规',
+			wares: [
+				{ ware: 'energycells', amount: 14 },
+				{ ware: 'fieldcoils', amount: 3 },
+				{ ware: 'shieldcomponents', amount: 5 },
+			],
+		},
+		]
+	},
+	{
+		id: 'shield_par_s_racer_01_mk1',
+		version: 1,
+		name: 'PAR S 护盾发生器 Mk1',
+		description: '无可用信息',
+		race: Races.paranid,
+		type: EquipmentType.shields,
+		equipmentClass: EquipmentClass.shieldgenerator,
+		size: Size.small,
+		recharge: { max: 1289, rate: 135, delay: 10.2 },
+		price: { min: 12223, max: 14939, avg: 13582 },
+		owners: [ Factions.ownerless ],
 		production: [
 		{
 			time: 10,
@@ -16925,24 +16412,167 @@ export const Equipments = [
 			name: '常规',
 			wares: [
 				{ ware: 'energycells', amount: 13 },
-				{ ware: 'fieldcoils', amount: 1 },
-				{ ware: 'shieldcomponents', amount: 7 },
+				{ ware: 'fieldcoils', amount: 2 },
+				{ ware: 'shieldcomponents', amount: 4 },
 			],
 		},
 		]
 	},
 	{
-		id: 'shield_spl_s_standard_01_mk3',
+		id: 'shield_tel_s_racer_01_mk1',
 		version: 1,
-		name: 'SPL S 护盾发生器 Mk3',
+		name: 'TEL S 护盾发生器 Mk1',
 		description: '无可用信息',
-		race: Races.split,
+		race: Races.teladi,
 		type: EquipmentType.shields,
 		equipmentClass: EquipmentClass.shieldgenerator,
 		size: Size.small,
-		recharge: { max: 1200, rate: 177, delay: 8.9 },
-		price: { min: 31475, max: 73051, avg: 52166 },
-		owners: [ Factions.court, Factions.split ],
+		recharge: { max: 450, rate: 150, delay: 2 },
+		price: { min: 12223, max: 14939, avg: 13582 },
+		owners: [ Factions.ownerless ],
+		production: [
+		{
+			time: 10,
+			amount: 1,
+			method: 'default',
+			name: '常规',
+			wares: [
+				{ ware: 'energycells', amount: 13 },
+				{ ware: 'fieldcoils', amount: 2 },
+				{ ware: 'shieldcomponents', amount: 4 },
+			],
+		},
+		]
+	},
+	{
+		id: 'shield_ter_l_standard_02_mk1',
+		version: 1,
+		name: 'TER L 前沿护盾发生器 Mk1',
+		description: '无可用信息',
+		race: Races.terran,
+		type: EquipmentType.shields,
+		equipmentClass: EquipmentClass.shieldgenerator,
+		size: Size.large,
+		hull: 2000,
+		recharge: { max: 40786, rate: 173, delay: 0 },
+		price: { min: 104540, max: 127771, avg: 116156 },
+		owners: [ Factions.terran ],
+		production: [
+		{
+			time: 20,
+			amount: 1,
+			method: 'default',
+			name: '常规',
+			wares: [
+				{ ware: 'energycells', amount: 500 },
+				{ ware: 'fieldcoils', amount: 25 },
+				{ ware: 'shieldcomponents', amount: 15 },
+			],
+		},
+		{
+			time: 20,
+			amount: 1,
+			method: 'terran',
+			name: 'Terran',
+			wares: [
+				{ ware: 'computronicsubstrate', amount: 5 },
+				{ ware: 'energycells', amount: 385 },
+				{ ware: 'metallicmicrolattice', amount: 15 },
+			],
+		},
+		]
+	},
+	{
+		id: 'shield_ter_l_standard_02_mk2',
+		version: 1,
+		name: 'TER L 前沿护盾发生器 Mk2',
+		description: '无可用信息',
+		race: Races.terran,
+		type: EquipmentType.shields,
+		equipmentClass: EquipmentClass.shieldgenerator,
+		size: Size.large,
+		hull: 2000,
+		recharge: { max: 48597, rate: 247, delay: 0 },
+		price: { min: 494028, max: 603812, avg: 548920 },
+		owners: [ Factions.terran ],
+		production: [
+		{
+			time: 20,
+			amount: 1,
+			method: 'default',
+			name: '常规',
+			wares: [
+				{ ware: 'energycells', amount: 1000 },
+				{ ware: 'fieldcoils', amount: 150 },
+				{ ware: 'shieldcomponents', amount: 117 },
+			],
+		},
+		{
+			time: 20,
+			amount: 1,
+			method: 'terran',
+			name: 'Terran',
+			wares: [
+				{ ware: 'computronicsubstrate', amount: 22 },
+				{ ware: 'energycells', amount: 1115 },
+				{ ware: 'metallicmicrolattice', amount: 165 },
+				{ ware: 'siliconcarbide', amount: 14 },
+			],
+		},
+		]
+	},
+	{
+		id: 'shield_ter_l_standard_02_mk3',
+		version: 1,
+		name: 'TER L 前沿护盾发生器 Mk3',
+		description: '无可用信息',
+		race: Races.terran,
+		type: EquipmentType.shields,
+		equipmentClass: EquipmentClass.shieldgenerator,
+		size: Size.large,
+		hull: 2000,
+		recharge: { max: 69424, rate: 424, delay: 0 },
+		price: { min: 1294817, max: 1751811, avg: 1523314 },
+		owners: [ Factions.terran ],
+		production: [
+		{
+			time: 20,
+			amount: 1,
+			method: 'default',
+			name: '常规',
+			wares: [
+				{ ware: 'energycells', amount: 1500 },
+				{ ware: 'fieldcoils', amount: 473 },
+				{ ware: 'shieldcomponents', amount: 309 },
+			],
+		},
+		{
+			time: 20,
+			amount: 1,
+			method: 'terran',
+			name: 'Terran',
+			wares: [
+				{ ware: 'computronicsubstrate', amount: 58 },
+				{ ware: 'energycells', amount: 2415 },
+				{ ware: 'metallicmicrolattice', amount: 490 },
+				{ ware: 'siliconcarbide', amount: 42 },
+			],
+		},
+		]
+	},
+	{
+		id: 'shield_ter_m_standard_04_mk1',
+		version: 1,
+		name: 'TER M 前沿护盾发生器 Mk1',
+		description: '无可用信息',
+		race: Races.terran,
+		type: EquipmentType.shields,
+		equipmentClass: EquipmentClass.shieldgenerator,
+		size: Size.medium,
+		hull: 500,
+		recharge: { max: 5405, rate: 29, delay: 0.47 },
+		price: { min: 69473, max: 104210, avg: 86842 },
+		owners: [ Factions.terran ],
 		production: [
 		{
 			time: 10,
@@ -16951,76 +16581,330 @@ export const Equipments = [
 			name: '常规',
 			wares: [
 				{ ware: 'energycells', amount: 60 },
-				{ ware: 'fieldcoils', amount: 3 },
-				{ ware: 'shieldcomponents', amount: 37 },
+				{ ware: 'fieldcoils', amount: 20 },
+				{ ware: 'shieldcomponents', amount: 35 },
+			],
+		},
+		{
+			time: 10,
+			amount: 1,
+			method: 'terran',
+			name: 'Terran',
+			wares: [
+				{ ware: 'computronicsubstrate', amount: 3 },
+				{ ware: 'energycells', amount: 212 },
+				{ ware: 'metallicmicrolattice', amount: 23 },
+				{ ware: 'siliconcarbide', amount: 4 },
 			],
 		},
 		]
 	},
 	{
-		id: 'shield_spl_xl_standard_01_mk1',
+		id: 'shield_ter_m_standard_04_mk2',
 		version: 1,
-		name: 'SPL XL 护盾发生器 Mk1',
+		name: 'TER M 前沿护盾发生器 Mk2',
 		description: '无可用信息',
-		race: Races.split,
+		race: Races.terran,
+		type: EquipmentType.shields,
+		equipmentClass: EquipmentClass.shieldgenerator,
+		size: Size.medium,
+		hull: 500,
+		recharge: { max: 6439, rate: 45, delay: 0.47 },
+		price: { min: 129373, max: 194059, avg: 161716 },
+		owners: [ Factions.terran ],
+		production: [
+		{
+			time: 10,
+			amount: 1,
+			method: 'default',
+			name: '常规',
+			wares: [
+				{ ware: 'energycells', amount: 80 },
+				{ ware: 'fieldcoils', amount: 50 },
+				{ ware: 'shieldcomponents', amount: 40 },
+			],
+		},
+		{
+			time: 10,
+			amount: 1,
+			method: 'terran',
+			name: 'Terran',
+			wares: [
+				{ ware: 'computronicsubstrate', amount: 4 },
+				{ ware: 'energycells', amount: 285 },
+				{ ware: 'metallicmicrolattice', amount: 32 },
+				{ ware: 'siliconcarbide', amount: 20 },
+			],
+		},
+		]
+	},
+	{
+		id: 'shield_ter_m_standard_04_mk3',
+		version: 1,
+		name: 'TER M 前沿护盾发生器 Mk3',
+		description: '无可用信息',
+		race: Races.terran,
+		type: EquipmentType.shields,
+		equipmentClass: EquipmentClass.shieldgenerator,
+		size: Size.medium,
+		hull: 500,
+		recharge: { max: 9199, rate: 77, delay: 0.47 },
+		price: { min: 566175, max: 849262, avg: 707718 },
+		owners: [ Factions.terran ],
+		production: [
+		{
+			time: 10,
+			amount: 1,
+			method: 'default',
+			name: '常规',
+			wares: [
+				{ ware: 'energycells', amount: 100 },
+				{ ware: 'fieldcoils', amount: 240 },
+				{ ware: 'shieldcomponents', amount: 150 },
+			],
+		},
+		{
+			time: 10,
+			amount: 1,
+			method: 'terran',
+			name: 'Terran',
+			wares: [
+				{ ware: 'computronicsubstrate', amount: 9 },
+				{ ware: 'energycells', amount: 1645 },
+				{ ware: 'metallicmicrolattice', amount: 15 },
+				{ ware: 'siliconcarbide', amount: 135 },
+			],
+		},
+		]
+	},
+	{
+		id: 'shield_ter_m_virtual_01_mk1',
+		version: 1,
+		name: 'TER M 前沿护盾发生器 Mk1',
+		description: '无可用信息',
+		race: Races.terran,
+		type: EquipmentType.shields,
+		equipmentClass: EquipmentClass.shieldgenerator,
+		size: Size.medium,
+		recharge: { max: 5405, rate: 29, delay: 0.47 },
+		price: { min: 69473, max: 104210, avg: 86842 },
+		owners: [ Factions.terran ],
+		production: [
+		{
+			time: 10,
+			amount: 1,
+			method: 'default',
+			name: '常规',
+			wares: [
+				{ ware: 'energycells', amount: 60 },
+				{ ware: 'fieldcoils', amount: 20 },
+				{ ware: 'shieldcomponents', amount: 35 },
+			],
+		},
+		{
+			time: 10,
+			amount: 1,
+			method: 'terran',
+			name: 'Terran',
+			wares: [
+				{ ware: 'computronicsubstrate', amount: 3 },
+				{ ware: 'energycells', amount: 368 },
+				{ ware: 'metallicmicrolattice', amount: 27 },
+				{ ware: 'siliconcarbide', amount: 2 },
+			],
+		},
+		]
+	},
+	{
+		id: 'shield_ter_m_virtual_01_mk2',
+		version: 1,
+		name: 'TER M 前沿护盾发生器 Mk2',
+		description: '无可用信息',
+		race: Races.terran,
+		type: EquipmentType.shields,
+		equipmentClass: EquipmentClass.shieldgenerator,
+		size: Size.medium,
+		recharge: { max: 6439, rate: 45, delay: 0.47 },
+		price: { min: 129373, max: 185975, avg: 161716 },
+		owners: [ Factions.terran ],
+		production: [
+		{
+			time: 10,
+			amount: 1,
+			method: 'default',
+			name: '常规',
+			wares: [
+				{ ware: 'energycells', amount: 80 },
+				{ ware: 'fieldcoils', amount: 50 },
+				{ ware: 'shieldcomponents', amount: 40 },
+			],
+		},
+		{
+			time: 10,
+			amount: 1,
+			method: 'terran',
+			name: 'Terran',
+			wares: [
+				{ ware: 'computronicsubstrate', amount: 4 },
+				{ ware: 'energycells', amount: 1475 },
+				{ ware: 'metallicmicrolattice', amount: 155 },
+				{ ware: 'siliconcarbide', amount: 2 },
+			],
+		},
+		]
+	},
+	{
+		id: 'shield_ter_m_virtual_01_mk3',
+		version: 1,
+		name: 'TER M 前沿护盾发生器 Mk3',
+		description: '无可用信息',
+		race: Races.terran,
+		type: EquipmentType.shields,
+		equipmentClass: EquipmentClass.shieldgenerator,
+		size: Size.medium,
+		recharge: { max: 9199, rate: 77, delay: 0.47 },
+		price: { min: 566175, max: 849262, avg: 707718 },
+		owners: [ Factions.terran ],
+		production: [
+		{
+			time: 10,
+			amount: 1,
+			method: 'default',
+			name: '常规',
+			wares: [
+				{ ware: 'energycells', amount: 100 },
+				{ ware: 'fieldcoils', amount: 240 },
+				{ ware: 'shieldcomponents', amount: 150 },
+			],
+		},
+		{
+			time: 10,
+			amount: 1,
+			method: 'terran',
+			name: 'Terran',
+			wares: [
+				{ ware: 'computronicsubstrate', amount: 26 },
+				{ ware: 'energycells', amount: 1855 },
+				{ ware: 'metallicmicrolattice', amount: 187 },
+				{ ware: 'siliconcarbide', amount: 18 },
+			],
+		},
+		]
+	},
+	{
+		id: 'shield_ter_s_virtual_01_mk1',
+		version: 1,
+		name: 'TER S 前沿护盾发生器 Mk1',
+		description: '无可用信息',
+		race: Races.terran,
+		type: EquipmentType.shields,
+		equipmentClass: EquipmentClass.shieldgenerator,
+		size: Size.small,
+		recharge: { max: 869, rate: 91, delay: 11.5 },
+		price: { min: 11811, max: 17716, avg: 14763 },
+		owners: [ Factions.terran ],
+		production: [
+		{
+			time: 10,
+			amount: 1,
+			method: 'default',
+			name: '常规',
+			wares: [
+				{ ware: 'energycells', amount: 50 },
+				{ ware: 'shieldcomponents', amount: 10 },
+			],
+		},
+		{
+			time: 10,
+			amount: 1,
+			method: 'terran',
+			name: 'Terran',
+			wares: [
+				{ ware: 'computronicsubstrate', amount: 1 },
+				{ ware: 'energycells', amount: 83 },
+				{ ware: 'metallicmicrolattice', amount: 20 },
+				{ ware: 'siliconcarbide', amount: 2 },
+			],
+		},
+		]
+	},
+	{
+		id: 'shield_ter_s_xperimental_01_mk5',
+		version: 1,
+		name: 'TER S 前沿护盾发生器 Mk5',
+		description: '无可用信息',
+		race: Races.terran,
+		type: EquipmentType.shields,
+		equipmentClass: EquipmentClass.shieldgenerator,
+		size: Size.small,
+		recharge: { max: 4102, rate: 643, delay: 11.5 },
+		price: { min: 389810, max: 527390, avg: 458600 },
+		owners: [ Factions.terran ],
+		production: [
+		{
+			time: 10,
+			amount: 1,
+			method: 'default',
+			name: '常规',
+			wares: [
+				{ ware: 'antimatterconverters', amount: 42 },
+				{ ware: 'energycells', amount: 1420 },
+				{ ware: 'shieldcomponents', amount: 205 },
+			],
+		},
+		{
+			time: 10,
+			amount: 1,
+			method: 'terran',
+			name: 'Terran',
+			wares: [
+				{ ware: 'computronicsubstrate', amount: 15 },
+				{ ware: 'energycells', amount: 2225 },
+				{ ware: 'metallicmicrolattice', amount: 215 },
+				{ ware: 'siliconcarbide', amount: 13 },
+			],
+		},
+		]
+	},
+	{
+		id: 'shield_xen_xl_mothership_01_mk1',
+		version: 1,
+		name: 'Xenon XL 护盾发生器',
+		description: '无可用信息',
+		race: Races.xenon,
 		type: EquipmentType.shields,
 		equipmentClass: EquipmentClass.shieldgenerator,
 		size: Size.extralarge,
-		hull: 9000,
-		recharge: { max: 110058, rate: 398, delay: 0 },
-		price: { min: 143572, max: 333746, avg: 238442 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
+		hull: 25500,
+		recharge: { max: 86060, rate: 200, delay: 0 },
+		price: { min: 320048, max: 451152, avg: 385600 },
+		owners: [ Factions.xenon ],
 		production: [
 		{
-			time: 10,
+			time: 1,
 			amount: 1,
 			method: 'default',
-			name: '常规',
+			name: 'Xenon',
 			wares: [
-				{ ware: 'energycells', amount: 184 },
-				{ ware: 'fieldcoils', amount: 41 },
-				{ ware: 'shieldcomponents', amount: 117 },
+				{ ware: 'energycells', amount: 95 },
+				{ ware: 'ore', amount: 420 },
+				{ ware: 'silicon', amount: 420 },
 			],
 		},
 		]
 	},
 	{
-		id: 'ship_spl_xs_police_01_a',
+		id: 'turret_ter_m_laser_03_mk1',
 		version: 1,
-		name: 'Split空间站安全部队',
-		description: 'Split的警察和他们的空间站安全部队是出了名的没耐心，粗鲁和兴奋的。"无罪推定"概念很难被Split的文化所理解接受。',
-		race: Races.split,
-		type: EquipmentType.drones,
-		equipmentClass: EquipmentClass.ship_xs,
-		hull: 281,
-		price: { min: 7999, max: 10822, avg: 9410 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		production: [
-		{
-			time: 60,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'dronecomponents', amount: 1 },
-				{ ware: 'energycells', amount: 50 },
-				{ ware: 'smartchips', amount: 10 },
-			],
-		},
-		]
-	},
-	{
-		id: 'turret_spl_l_beam_01_mk1',
-		version: 1,
-		name: 'SPL L 光束炮塔 Mk1',
-		description: '一般被归为入门级，光束炮塔受到许多囊中羞涩的舰长的青睐。该武器精度极高，但伤害有限。nnL级光束炮塔性能有所提升，然而还是明显弱于同级的其他武器。',
-		race: Races.split,
+		name: 'TER M 电磁炮塔 Mk1',
+		description: '电磁武器的应用让地球舰队飞船拥有了无可比拟的火力。这类武器利用电磁场发生器将等离子团加到极高速度，因而具备可怕的威力。nn曾有很长一段时间，电磁炮塔都被当成是不稳定的原型设计，因为安全生成等离子体所需的冷却和屏蔽性能被认为是不可能在需要灵活转动的炮塔结构上实现的。投入使用后，这种炮塔无数次证明了自己在应对灵活的小型舰船方面的能力。',
+		race: Races.terran,
 		type: EquipmentType.turrets,
 		equipmentClass: EquipmentClass.turret,
-		size: Size.large,
-		hull: 2000,
-		price: { min: 98006, max: 203353, avg: 150548 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
+		size: Size.medium,
+		hull: 2100,
+		price: { min: 43104, max: 60762, avg: 51933 },
+		owners: [ Factions.terran ],
 		production: [
 		{
 			time: 10,
@@ -17028,128 +16912,101 @@ export const Equipments = [
 			method: 'default',
 			name: '常规',
 			wares: [
-				{ ware: 'advancedelectronics', amount: 13 },
-				{ ware: 'energycells', amount: 42 },
-				{ ware: 'turretcomponents', amount: 46 },
-			],
-		},
-		]
-	},
-	{
-		id: 'turret_spl_l_dumbfire_01_mk1',
-		version: 1,
-		name: 'SPL L 无制导炮塔 Mk1',
-		description: '无可用信息',
-		race: Races.split,
-		type: EquipmentType.turrets,
-		equipmentClass: EquipmentClass.missileturret,
-		size: Size.large,
-		hull: 4250,
-		price: { min: 49955, max: 102822, avg: 76329 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		production: [
-		{
-			time: 10,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'advancedelectronics', amount: 7 },
-				{ ware: 'energycells', amount: 35 },
-				{ ware: 'turretcomponents', amount: 21 },
-			],
-		},
-		]
-	},
-	{
-		id: 'turret_spl_l_guided_01_mk1',
-		version: 1,
-		name: 'SPL L 制导炮塔 Mk1',
-		description: '无可用信息',
-		race: Races.split,
-		type: EquipmentType.turrets,
-		equipmentClass: EquipmentClass.missileturret,
-		size: Size.large,
-		hull: 4250,
-		price: { min: 51277, max: 113573, avg: 82314 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		production: [
-		{
-			time: 10,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'advancedelectronics', amount: 3 },
-				{ ware: 'energycells', amount: 47 },
-				{ ware: 'turretcomponents', amount: 39 },
-			],
-		},
-		]
-	},
-	{
-		id: 'turret_spl_l_laser_01_mk1',
-		version: 1,
-		name: 'SPL L 脉冲炮塔 Mk1',
-		description: '脉冲炮塔用途广泛，但由于低伤害面对大型舰船和空间站比较乏力。其他情况下它能有效打击各类目标。nnL级脉冲炮塔性能比M级性能更强。该种炮塔对所有大小的目标都能造成有效伤害，属于万金油型武器。',
-		race: Races.split,
-		type: EquipmentType.turrets,
-		equipmentClass: EquipmentClass.turret,
-		size: Size.large,
-		hull: 2000,
-		price: { min: 33835, max: 76716, avg: 55193 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		production: [
-		{
-			time: 10,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'advancedelectronics', amount: 1 },
-				{ ware: 'energycells', amount: 47 },
-				{ ware: 'turretcomponents', amount: 29 },
-			],
-		},
-		]
-	},
-	{
-		id: 'turret_spl_l_mining_01_mk1',
-		version: 1,
-		name: 'SPL L 采矿炮塔 Mk1',
-		description: '无可用信息',
-		race: Races.split,
-		type: EquipmentType.turrets,
-		equipmentClass: EquipmentClass.turret,
-		size: Size.large,
-		hull: 2000,
-		price: { min: 30723, max: 71387, avg: 50969 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		production: [
-		{
-			time: 10,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'energycells', amount: 47 },
+				{ ware: 'advancedelectronics', amount: 2 },
+				{ ware: 'energycells', amount: 10 },
 				{ ware: 'turretcomponents', amount: 30 },
 			],
 		},
+		{
+			time: 10,
+			amount: 1,
+			method: 'terran',
+			name: 'Terran',
+			wares: [
+				{ ware: 'computronicsubstrate', amount: 2 },
+				{ ware: 'energycells', amount: 75 },
+				{ ware: 'metallicmicrolattice', amount: 8 },
+				{ ware: 'siliconcarbide', amount: 3 },
+			],
+		},
 		]
 	},
 	{
-		id: 'turret_spl_l_plasma_01_mk1',
+		id: 'turret_ter_m_laser_04_mk1',
 		version: 1,
-		name: 'SPL L 等离子炮塔 Mk1',
-		description: '等离子炮塔最大的优势是它的工作原理不会产生太多热量，因而无需像大多数其他武器一样专门集成冷却系统。这使得这种迟钝的炮塔能对大型敌人造成持续威胁。nnL级等离子炮塔是大型舰船的推荐装备之一。炮塔转速的劣势可以用炮位数量来弥补。',
-		race: Races.split,
+		name: 'TER M 电磁炮塔 Mk1',
+		description: '电磁武器的应用让地球舰队飞船拥有了无可比拟的火力。这类武器利用电磁场发生器将等离子团加到极高速度，因而具备可怕的威力。nn曾有很长一段时间，电磁炮塔都被当成是不稳定的原型设计，因为安全生成等离子体所需的冷却和屏蔽性能被认为是不可能在需要灵活转动的炮塔结构上实现的。投入使用后，这种炮塔无数次证明了自己在应对灵活的小型舰船方面的能力。',
+		race: Races.terran,
 		type: EquipmentType.turrets,
 		equipmentClass: EquipmentClass.turret,
+		size: Size.medium,
+		hull: 800,
+		price: { min: 43104, max: 60762, avg: 51933 },
+		owners: [ Factions.terran ],
+		production: [
+		{
+			time: 10,
+			amount: 1,
+			method: 'default',
+			name: '常规',
+			wares: [
+				{ ware: 'advancedelectronics', amount: 2 },
+				{ ware: 'energycells', amount: 10 },
+				{ ware: 'turretcomponents', amount: 30 },
+			],
+		},
+		{
+			time: 10,
+			amount: 1,
+			method: 'terran',
+			name: 'Terran',
+			wares: [
+				{ ware: 'computronicsubstrate', amount: 2 },
+				{ ware: 'energycells', amount: 75 },
+				{ ware: 'metallicmicrolattice', amount: 8 },
+				{ ware: 'siliconcarbide', amount: 3 },
+			],
+		},
+		]
+	},
+	{
+		id: 'turret_xen_xl_battleship_01_mk1',
+		version: 1,
+		name: 'XEN XL 奥米茄炮塔 Mk1',
+		description: '无可用信息',
+		race: Races.xenon,
+		type: EquipmentType.turrets,
+		equipmentClass: EquipmentClass.turret,
+		size: Size.extralarge,
+		hull: 15600,
+		price: { min: 40670, max: 57330, avg: 49000 },
+		owners: [ Factions.xenon ],
+		production: [
+		{
+			time: 10,
+			amount: 1,
+			method: 'default',
+			name: 'Xenon',
+			wares: [
+				{ ware: 'energycells', amount: 50 },
+				{ ware: 'ore', amount: 50 },
+				{ ware: 'silicon', amount: 50 },
+			],
+		},
+		]
+	},
+	{
+		id: 'weapon_ter_l_flagship_01_mk1',
+		version: 1,
+		name: 'TER 札幌导弹发射器阵列',
+		description: '尽管设计师尽了最大努力，由于可用空间有限，除非对原设计进行大幅修改，无法在札幌上安装主武器。为了弥补这一缺陷，许多导弹发射管被加入到原设计中，给札幌提供了一个原本不可能实现的大型武器阵列。虽然作为主要武器有点非常规，但札幌的导弹阵列仍然提供了强大的火力，能够对抗许多中型和大型舰船。其高伤害输出仅因船员手动重新装填发射管的空间有限而略有减少。',
+		race: Races.terran,
+		type: EquipmentType.weapons,
+		equipmentClass: EquipmentClass.missilelauncher,
 		size: Size.large,
-		hull: 2000,
-		price: { min: 59861, max: 132964, avg: 96290 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
+		hull: 1000,
+		price: { min: 1938881, max: 2623192, avg: 2281036 },
+		owners: [ Factions.ownerless ],
 		production: [
 		{
 			time: 10,
@@ -17157,76 +17014,37 @@ export const Equipments = [
 			method: 'default',
 			name: '常规',
 			wares: [
-				{ ware: 'advancedelectronics', amount: 3 },
-				{ ware: 'energycells', amount: 132 },
-				{ ware: 'turretcomponents', amount: 43 },
+				{ ware: 'advancedelectronics', amount: 245 },
+				{ ware: 'energycells', amount: 1365 },
+				{ ware: 'weaponcomponents', amount: 215 },
 			],
 		},
-		]
-	},
-	{
-		id: 'turret_spl_m_beam_01_mk1',
-		version: 1,
-		name: 'SPL M 光束炮塔 Mk1',
-		description: '一般被归为入门级，光束炮塔受到许多囊中羞涩的舰长的青睐。该武器精度极高，但伤害有限。',
-		race: Races.split,
-		type: EquipmentType.turrets,
-		equipmentClass: EquipmentClass.turret,
-		size: Size.medium,
-		price: { min: 32650, max: 69808, avg: 51180 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		production: [
 		{
 			time: 10,
 			amount: 1,
-			method: 'default',
-			name: '常规',
+			method: 'terran',
+			name: 'Terran',
 			wares: [
-				{ ware: 'advancedelectronics', amount: 3 },
-				{ ware: 'energycells', amount: 81 },
-				{ ware: 'turretcomponents', amount: 17 },
+				{ ware: 'computronicsubstrate', amount: 121 },
+				{ ware: 'energycells', amount: 345 },
+				{ ware: 'metallicmicrolattice', amount: 485 },
+				{ ware: 'siliconcarbide', amount: 98 },
 			],
 		},
 		]
 	},
 	{
-		id: 'turret_spl_m_beam_02_mk1',
+		id: 'weapon_ter_m_laser_02_mk1',
 		version: 1,
-		name: 'SPL M 光束炮塔 Mk1',
-		description: '一般被归为入门级，光束炮塔受到许多囊中羞涩的舰长的青睐。该武器精度极高，但伤害有限。',
-		race: Races.split,
-		type: EquipmentType.turrets,
-		equipmentClass: EquipmentClass.turret,
-		size: Size.medium,
-		hull: 425,
-		price: { min: 32650, max: 69808, avg: 51180 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		production: [
-		{
-			time: 10,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'advancedelectronics', amount: 3 },
-				{ ware: 'energycells', amount: 81 },
-				{ ware: 'turretcomponents', amount: 17 },
-			],
-		},
-		]
-	},
-	{
-		id: 'turret_spl_m_dumbfire_02_mk1',
-		version: 1,
-		name: 'SPL M 无制导炮塔 Mk1',
-		description: '无可用信息',
-		race: Races.split,
-		type: EquipmentType.turrets,
-		equipmentClass: EquipmentClass.missileturret,
+		name: 'TER M 电磁加农炮 Mk1',
+		description: '电磁武器的应用让地球舰队飞船拥有了无可比拟的火力。这类武器利用电磁场发生器将等离子团加到极高速度，因而具备可怕的威力。nn电磁加农炮的巨大威力使它成为应对中型舰船威胁的有效武器。',
+		race: Races.terran,
+		type: EquipmentType.weapons,
+		equipmentClass: EquipmentClass.weapon,
 		size: Size.medium,
 		hull: 1000,
-		price: { min: 15800, max: 36406, avg: 26066 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
+		price: { min: 82456, max: 140725, avg: 109941 },
+		owners: [ Factions.terran ],
 		production: [
 		{
 			time: 10,
@@ -17234,23 +17052,37 @@ export const Equipments = [
 			method: 'default',
 			name: '常规',
 			wares: [
-				{ ware: 'energycells', amount: 64 },
-				{ ware: 'turretcomponents', amount: 13 },
+				{ ware: 'advancedelectronics', amount: 4 },
+				{ ware: 'energycells', amount: 50 },
+				{ ware: 'weaponcomponents', amount: 50 },
+			],
+		},
+		{
+			time: 10,
+			amount: 1,
+			method: 'terran',
+			name: 'Terran',
+			wares: [
+				{ ware: 'computronicsubstrate', amount: 4 },
+				{ ware: 'energycells', amount: 367 },
+				{ ware: 'metallicmicrolattice', amount: 28 },
+				{ ware: 'siliconcarbide', amount: 3 },
 			],
 		},
 		]
 	},
 	{
-		id: 'turret_spl_m_flak_01_mk1',
+		id: 'weapon_ter_s_laser_02_mk1',
 		version: 1,
-		name: 'SPL M 高射炮塔 Mk1',
-		description: '现代高射炮塔技术在星门网络中还不太普及，因此拥有该技术的势力都极力保密。由于是范围伤害，该武器在近距离上非常强力，尤其是针对战斗机。nnSplit版无法达到Argon版的命中率，但拥有更大的弹夹。',
-		race: Races.split,
-		type: EquipmentType.turrets,
-		equipmentClass: EquipmentClass.turret,
-		size: Size.medium,
-		price: { min: 41023, max: 89587, avg: 65305 },
-		owners: [ Factions.court, Factions.freesplit ],
+		name: 'TER S 电磁炮 Mk1',
+		description: '电磁武器的应用让地球舰队飞船拥有了无可比拟的火力。这类武器利用电磁场发生器将等离子团加到极高速度，因而具备可怕的威力。nn虽然电磁炮是该类武器中最小的型号，它仍然拥有令人影响深刻的高射速，尤其适合经常参与狗斗的飞船。',
+		race: Races.terran,
+		type: EquipmentType.weapons,
+		equipmentClass: EquipmentClass.weapon,
+		size: Size.small,
+		hull: 500,
+		price: { min: 29605, max: 50527, avg: 39474 },
+		owners: [ Factions.terran ],
 		production: [
 		{
 			time: 10,
@@ -17258,299 +17090,37 @@ export const Equipments = [
 			method: 'default',
 			name: '常规',
 			wares: [
-				{ ware: 'advancedelectronics', amount: 3 },
-				{ ware: 'energycells', amount: 45 },
-				{ ware: 'turretcomponents', amount: 27 },
-			],
-		},
-		]
-	},
-	{
-		id: 'turret_spl_m_flak_02_mk1',
-		version: 1,
-		name: 'SPL M 高射炮塔 Mk1',
-		description: '现代高射炮塔技术在星门网络中还不太普及，因此拥有该技术的势力都极力保密。由于是范围伤害，该武器在近距离上非常强力，尤其是针对战斗机。nnSplit版无法达到Argon版的命中率，但拥有更大的弹夹。',
-		race: Races.split,
-		type: EquipmentType.turrets,
-		equipmentClass: EquipmentClass.turret,
-		size: Size.medium,
-		hull: 425,
-		price: { min: 41023, max: 89587, avg: 65305 },
-		owners: [ Factions.court, Factions.freesplit ],
-		production: [
-		{
-			time: 10,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'advancedelectronics', amount: 3 },
-				{ ware: 'energycells', amount: 45 },
-				{ ware: 'turretcomponents', amount: 27 },
-			],
-		},
-		]
-	},
-	{
-		id: 'turret_spl_m_gatling_01_mk1',
-		version: 1,
-		name: 'SPL M 闪电炮塔 Mk1',
-		description: '一般被归为辅助武器，闪电炮塔由于转速上的劣势被一些舰长专门用来对付中型目标。在一些高端战术中，它也被用来压制护盾回充或阻止目标启动巡航模式。',
-		race: Races.split,
-		type: EquipmentType.turrets,
-		equipmentClass: EquipmentClass.turret,
-		size: Size.medium,
-		price: { min: 15116, max: 34901, avg: 24972 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		production: [
-		{
-			time: 10,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'energycells', amount: 52 },
-				{ ware: 'turretcomponents', amount: 13 },
-			],
-		},
-		]
-	},
-	{
-		id: 'turret_spl_m_gatling_02_mk1',
-		version: 1,
-		name: 'SPL M 闪电炮塔 Mk1',
-		description: '一般被归为辅助武器，闪电炮塔由于转速上的劣势被一些舰长专门用来对付中型目标。在一些高端战术中，它也被用来压制护盾回充或阻止目标启动巡航模式。',
-		race: Races.split,
-		type: EquipmentType.turrets,
-		equipmentClass: EquipmentClass.turret,
-		size: Size.medium,
-		hull: 425,
-		price: { min: 15116, max: 34901, avg: 24972 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		production: [
-		{
-			time: 10,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'energycells', amount: 52 },
-				{ ware: 'turretcomponents', amount: 13 },
-			],
-		},
-		]
-	},
-	{
-		id: 'turret_spl_m_guided_02_mk1',
-		version: 1,
-		name: 'SPL M 制导炮塔 Mk1',
-		description: '无可用信息',
-		race: Races.split,
-		type: EquipmentType.turrets,
-		equipmentClass: EquipmentClass.missileturret,
-		size: Size.medium,
-		hull: 1000,
-		price: { min: 17066, max: 37546, avg: 27275 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		production: [
-		{
-			time: 10,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'advancedelectronics', amount: 1 },
-				{ ware: 'energycells', amount: 48 },
-				{ ware: 'turretcomponents', amount: 11 },
-			],
-		},
-		]
-	},
-	{
-		id: 'turret_spl_m_laser_01_mk1',
-		version: 1,
-		name: 'SPL M 脉冲炮塔 Mk1',
-		description: '脉冲炮塔用途广泛，但由于低伤害面对大型舰船和空间站比较乏力。其他情况下它能有效打击各类目标。',
-		race: Races.split,
-		type: EquipmentType.turrets,
-		equipmentClass: EquipmentClass.turret,
-		size: Size.medium,
-		price: { min: 13247, max: 30535, avg: 21860 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		production: [
-		{
-			time: 10,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'energycells', amount: 52 },
-				{ ware: 'turretcomponents', amount: 11 },
-			],
-		},
-		]
-	},
-	{
-		id: 'turret_spl_m_laser_02_mk1',
-		version: 1,
-		name: 'SPL M 脉冲炮塔 Mk1',
-		description: '脉冲炮塔用途广泛，但由于低伤害面对大型舰船和空间站比较乏力。其他情况下它能有效打击各类目标。',
-		race: Races.split,
-		type: EquipmentType.turrets,
-		equipmentClass: EquipmentClass.turret,
-		size: Size.medium,
-		hull: 425,
-		price: { min: 13247, max: 30535, avg: 21860 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		production: [
-		{
-			time: 10,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'energycells', amount: 52 },
-				{ ware: 'turretcomponents', amount: 11 },
-			],
-		},
-		]
-	},
-	{
-		id: 'turret_spl_m_mining_01_mk1',
-		version: 1,
-		name: 'SPL M 采矿炮塔 Mk1',
-		description: '无可用信息',
-		race: Races.split,
-		type: EquipmentType.turrets,
-		equipmentClass: EquipmentClass.turret,
-		size: Size.medium,
-		price: { min: 10374, max: 24088, avg: 17203 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		production: [
-		{
-			time: 10,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'energycells', amount: 18 },
-				{ ware: 'turretcomponents', amount: 10 },
-			],
-		},
-		]
-	},
-	{
-		id: 'turret_spl_m_mining_02_mk1',
-		version: 1,
-		name: 'SPL M 采矿炮塔 Mk1',
-		description: '无可用信息',
-		race: Races.split,
-		type: EquipmentType.turrets,
-		equipmentClass: EquipmentClass.turret,
-		size: Size.medium,
-		hull: 425,
-		price: { min: 10374, max: 24088, avg: 17203 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		production: [
-		{
-			time: 10,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'energycells', amount: 18 },
-				{ ware: 'turretcomponents', amount: 10 },
-			],
-		},
-		]
-	},
-	{
-		id: 'turret_spl_m_plasma_01_mk1',
-		version: 1,
-		name: 'SPL M 等离子炮塔 Mk1',
-		description: '等离子炮塔最大的优势是它的工作原理不会产生太多热量，因而无需像大多数其他武器一样专门集成冷却系统。这使得这种迟钝的炮塔能对大型敌人造成持续威胁。',
-		race: Races.split,
-		type: EquipmentType.turrets,
-		equipmentClass: EquipmentClass.turret,
-		size: Size.medium,
-		price: { min: 20258, max: 45201, avg: 32684 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		production: [
-		{
-			time: 10,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'advancedelectronics', amount: 1 },
-				{ ware: 'energycells', amount: 22 },
-				{ ware: 'turretcomponents', amount: 16 },
-			],
-		},
-		]
-	},
-	{
-		id: 'turret_spl_m_plasma_02_mk1',
-		version: 1,
-		name: 'SPL M 等离子炮塔 Mk1',
-		description: '等离子炮塔最大的优势是它的工作原理不会产生太多热量，因而无需像大多数其他武器一样专门集成冷却系统。这使得这种迟钝的炮塔能对大型敌人造成持续威胁。',
-		race: Races.split,
-		type: EquipmentType.turrets,
-		equipmentClass: EquipmentClass.turret,
-		size: Size.medium,
-		hull: 425,
-		price: { min: 20258, max: 45201, avg: 32684 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		production: [
-		{
-			time: 10,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
-				{ ware: 'advancedelectronics', amount: 1 },
-				{ ware: 'energycells', amount: 22 },
-				{ ware: 'turretcomponents', amount: 16 },
-			],
-		},
-		]
-	},
-	{
-		id: 'turret_spl_m_shotgun_01_mk1',
-		version: 1,
-		name: 'SPL M 霰弹炮塔 Mk1',
-		description: '该炮塔专门针对中型目标：对付战机它准度不够，对付主力舰它伤害太弱。nn霰弹炮塔发射短程散射弹丸。使用者需要着重关注它的散热问题。',
-		race: Races.split,
-		type: EquipmentType.turrets,
-		equipmentClass: EquipmentClass.turret,
-		size: Size.medium,
-		price: { min: 14797, max: 34325, avg: 24521 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
-		production: [
-		{
-			time: 10,
-			amount: 1,
-			method: 'default',
-			name: '常规',
-			wares: [
+				{ ware: 'advancedelectronics', amount: 2 },
 				{ ware: 'energycells', amount: 30 },
-				{ ware: 'turretcomponents', amount: 14 },
+				{ ware: 'weaponcomponents', amount: 20 },
+			],
+		},
+		{
+			time: 10,
+			amount: 1,
+			method: 'terran',
+			name: 'Terran',
+			wares: [
+				{ ware: 'computronicsubstrate', amount: 1 },
+				{ ware: 'energycells', amount: 65 },
+				{ ware: 'metallicmicrolattice', amount: 23 },
+				{ ware: 'siliconcarbide', amount: 4 },
 			],
 		},
 		]
 	},
 	{
-		id: 'turret_spl_m_shotgun_02_mk1',
+		id: 'weapon_ter_s_plasma_01_mk1',
 		version: 1,
-		name: 'SPL M 霰弹炮塔 Mk1',
-		description: '该炮塔专门针对中型目标：对付战机它准度不够，对付主力舰它伤害太弱。nn霰弹炮塔发射短程散射弹丸。使用者需要着重关注它的散热问题。',
-		race: Races.split,
-		type: EquipmentType.turrets,
-		equipmentClass: EquipmentClass.turret,
-		size: Size.medium,
-		hull: 425,
-		price: { min: 14797, max: 34325, avg: 24521 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
+		name: 'ARG S 伽马高能等离子投射器 Mk1',
+		description: '伽马高能等离子投射器是代表了等离子武器技术最前沿的尖端武器。该武器完美平衡了创意和实用性，提供了在太空中无与伦比的火力。伽马高能等离子投射器能利用物理基本原理操纵等离子体，连续射出极具破坏力的高温等离子球。nn虽然后续版本在此基础上有所更新优化，但是这个早期设计才最具重要性。正是它找到了威力和可靠性的最佳平衡点，使得该装备真正走出实验室成为一款实战武器。',
+		race: Races.argon,
+		type: EquipmentType.weapons,
+		equipmentClass: EquipmentClass.weapon,
+		size: Size.small,
+		hull: 500,
+		price: { min: 49210, max: 83985, avg: 65613 },
+		owners: [ Factions.terran ],
 		production: [
 		{
 			time: 10,
@@ -17558,24 +17128,37 @@ export const Equipments = [
 			method: 'default',
 			name: '常规',
 			wares: [
+				{ ware: 'advancedelectronics', amount: 5 },
 				{ ware: 'energycells', amount: 30 },
-				{ ware: 'turretcomponents', amount: 14 },
+				{ ware: 'weaponcomponents', amount: 20 },
+			],
+		},
+		{
+			time: 10,
+			amount: 1,
+			method: 'terran',
+			name: 'Terran',
+			wares: [
+				{ ware: 'computronicsubstrate', amount: 3 },
+				{ ware: 'energycells', amount: 65 },
+				{ ware: 'metallicmicrolattice', amount: 4 },
+				{ ware: 'siliconcarbide', amount: 2 },
 			],
 		},
 		]
 	},
 	{
-		id: 'weapon_spl_l_destroyer_01_mk1',
+		id: 'weapon_par_l_expeditionary_01_mk1',
 		version: 1,
-		name: 'SPL 响尾蛇主炮',
-		description: '"快而狠"不只是一句Split格言。它同时也是军事战术和设计理念。响尾蛇主炮的设计将该理念体现得淋漓尽致。nn从它较短的射程就能看出，设计者的构思出发点就是冲锋陷阵而非缩在边缘放冷枪。因此，只建议那些雇得起顶级飞行员的人使用该武器。nn战斗中的响尾蛇冲锋是相当壮观的，当然只是对于那些隔岸观火的人来说是这样的。',
-		race: Races.split,
+		name: 'PAR 亥伯龙船主电池',
+		description: '亥伯龙船专属武器，适用于与多种不同目标交战。其特别擅长对付中型飞船以及无效化更大型飞船的表面组件，这也使其非常适用于战术撤退时进行掩护。得益于其高精准度和良好的火力持续性，其火力接近驱逐舰主炮的水平，只不过有效射程更短，因此亥伯龙船的整体火力性能接近Paranid的奥德修斯级驱逐舰。',
+		race: Races.paranid,
 		type: EquipmentType.weapons,
 		equipmentClass: EquipmentClass.weapon,
 		size: Size.large,
 		hull: 8000,
-		price: { min: 727725, max: 1444922, avg: 1086323 },
-		owners: [ Factions.court, Factions.freesplit, Factions.split ],
+		price: { min: 1200105, max: 1466795, avg: 1333450 },
+		owners: [ Factions.holyorder, Factions.paranid, Factions.trinity ],
 		production: [
 		{
 			time: 10,
@@ -17583,9 +17166,416 @@ export const Equipments = [
 			method: 'default',
 			name: '常规',
 			wares: [
-				{ ware: 'advancedelectronics', amount: 131 },
-				{ ware: 'energycells', amount: 29 },
-				{ ware: 'weaponcomponents', amount: 201 },
+				{ ware: 'advancedelectronics', amount: 79 },
+				{ ware: 'energycells', amount: 2500 },
+				{ ware: 'weaponcomponents', amount: 281 },
+			],
+		},
+		]
+	},
+	{
+		id: 'engine_arg_m_corvette_01_mk1',
+		version: 1,
+		name: 'ARG 特使 M 引擎 Mk1',
+		description: '无可用信息',
+		race: Races.argon,
+		type: EquipmentType.engines,
+		equipmentClass: EquipmentClass.engine,
+		size: Size.medium,
+		price: { min: 203907, max: 275874, avg: 239890 },
+		owners: [ Factions.argon ],
+		thrust: { forward: 1484.1, reverse: 1336 },
+		travel: { thrust: 12.5, attack: 38, charge: 7, release: 0 },
+		production: [
+		{
+			time: 15,
+			amount: 1,
+			method: 'default',
+			name: '常规',
+			wares: [
+				{ ware: 'antimatterconverters', amount: 41 },
+				{ ware: 'energycells', amount: 450 },
+				{ ware: 'engineparts', amount: 79 },
+			],
+		},
+		{
+			time: 15,
+			amount: 1,
+			method: 'closedloop',
+			name: '闭环',
+			wares: [
+				{ ware: 'claytronics', amount: 10 },
+				{ ware: 'energycells', amount: 197 },
+				{ ware: 'hullparts', amount: 60 },
+			],
+		},
+		]
+	},
+	{
+		id: 'engine_arg_m_corvette_01_mk2',
+		version: 1,
+		name: 'ARG 特使 M 引擎 Mk2',
+		description: '无可用信息',
+		race: Races.argon,
+		type: EquipmentType.engines,
+		equipmentClass: EquipmentClass.engine,
+		size: Size.medium,
+		price: { min: 489379, max: 662101, avg: 575740 },
+		owners: [ Factions.argon ],
+		thrust: { forward: 1706, reverse: 1535 },
+		travel: { thrust: 12, attack: 38, charge: 7, release: 0 },
+		production: [
+		{
+			time: 15,
+			amount: 1,
+			method: 'default',
+			name: '常规',
+			wares: [
+				{ ware: 'antimatterconverters', amount: 98 },
+				{ ware: 'energycells', amount: 1080 },
+				{ ware: 'engineparts', amount: 190 },
+			],
+		},
+		{
+			time: 15,
+			amount: 1,
+			method: 'closedloop',
+			name: '闭环',
+			wares: [
+				{ ware: 'claytronics', amount: 25 },
+				{ ware: 'energycells', amount: 341 },
+				{ ware: 'hullparts', amount: 144 },
+			],
+		},
+		]
+	},
+	{
+		id: 'engine_tel_m_corvette_01_mk1',
+		version: 1,
+		name: 'TEL 特使 M 引擎 Mk1',
+		description: '无可用信息',
+		race: Races.teladi,
+		type: EquipmentType.engines,
+		equipmentClass: EquipmentClass.engine,
+		size: Size.medium,
+		price: { min: 171139, max: 231541, avg: 201340 },
+		owners: [ Factions.ministry, Factions.scaleplate ],
+		thrust: { forward: 1342, reverse: 1208 },
+		travel: { thrust: 14.3, attack: 24, charge: 3, release: 0 },
+		production: [
+		{
+			time: 15,
+			amount: 1,
+			method: 'default',
+			name: '常规',
+			wares: [
+				{ ware: 'antimatterconverters', amount: 34 },
+				{ ware: 'energycells', amount: 378 },
+				{ ware: 'engineparts', amount: 66 },
+			],
+		},
+		{
+			time: 15,
+			amount: 1,
+			method: 'closedloop',
+			name: '闭环',
+			wares: [
+				{ ware: 'claytronics', amount: 8 },
+				{ ware: 'energycells', amount: 208 },
+				{ ware: 'hullparts', amount: 50 },
+			],
+		},
+		]
+	},
+	{
+		id: 'engine_tel_m_corvette_01_mk2',
+		version: 1,
+		name: 'TEL 特使 M 引擎 Mk2',
+		description: '无可用信息',
+		race: Races.teladi,
+		type: EquipmentType.engines,
+		equipmentClass: EquipmentClass.engine,
+		size: Size.medium,
+		price: { min: 410729, max: 555692, avg: 483210 },
+		owners: [ Factions.ministry ],
+		thrust: { forward: 1543, reverse: 1389 },
+		travel: { thrust: 13.8, attack: 24, charge: 3, release: 0 },
+		production: [
+		{
+			time: 15,
+			amount: 1,
+			method: 'default',
+			name: '常规',
+			wares: [
+				{ ware: 'antimatterconverters', amount: 82 },
+				{ ware: 'energycells', amount: 906 },
+				{ ware: 'engineparts', amount: 159 },
+			],
+		},
+		{
+			time: 15,
+			amount: 1,
+			method: 'closedloop',
+			name: '闭环',
+			wares: [
+				{ ware: 'claytronics', amount: 21 },
+				{ ware: 'energycells', amount: 271 },
+				{ ware: 'hullparts', amount: 121 },
+			],
+		},
+		]
+	},
+	{
+		id: 'shield_gen_m_corvette_01_mk1',
+		version: 1,
+		name: '特使 M 护盾发生器',
+		description: '无可用信息',
+		race: Races.argon,
+		type: EquipmentType.shields,
+		equipmentClass: EquipmentClass.shieldgenerator,
+		size: Size.medium,
+		recharge: { max: 6746, rate: 45, delay: 0.5 },
+		price: { min: 62350, max: 84355, avg: 73350 },
+		owners: [ Factions.argon, Factions.ministry, Factions.scaleplate ],
+		production: [
+		{
+			time: 20,
+			amount: 1,
+			method: 'default',
+			name: '常规',
+			wares: [
+				{ ware: 'energycells', amount: 70 },
+				{ ware: 'fieldcoils', amount: 13 },
+				{ ware: 'shieldcomponents', amount: 24 },
+			],
+		},
+		{
+			time: 20,
+			amount: 1,
+			method: 'closedloop',
+			name: '闭环',
+			wares: [
+				{ ware: 'claytronics', amount: 3 },
+				{ ware: 'energycells', amount: 69 },
+				{ ware: 'hullparts', amount: 18 },
+			],
+		},
+		]
+	},
+    {
+		id: 'shield_gen_m_corvette_01_mk1',
+		version: 1,
+		name: '特使 M 护盾发生器',
+		description: '无可用信息',
+		race: Races.teladi,
+		type: EquipmentType.shields,
+		equipmentClass: EquipmentClass.shieldgenerator,
+		size: Size.medium,
+		recharge: { max: 6746, rate: 45, delay: 0.5 },
+		price: { min: 62350, max: 84355, avg: 73350 },
+		owners: [ Factions.argon, Factions.ministry, Factions.scaleplate ],
+		production: [
+		{
+			time: 20,
+			amount: 1,
+			method: 'default',
+			name: '常规',
+			wares: [
+				{ ware: 'energycells', amount: 70 },
+				{ ware: 'fieldcoils', amount: 13 },
+				{ ware: 'shieldcomponents', amount: 24 },
+			],
+		},
+		{
+			time: 20,
+			amount: 1,
+			method: 'closedloop',
+			name: '闭环',
+			wares: [
+				{ ware: 'claytronics', amount: 3 },
+				{ ware: 'energycells', amount: 69 },
+				{ ware: 'hullparts', amount: 18 },
+			],
+		},
+		]
+	},
+	{
+		id: 'turret_gen_m_disabler_01_mk1',
+		version: 1,
+		name: 'TEL M Distortion Turret Mk1',
+		description: 'Distortion Turret 是 Heavy Distortion Pulsor 的炮塔挂载变体，由 Joint Teladi Defence Consortium 为财政部开发。它以相对论速度发射相干物质波，撞击时放电，暂时瘫痪并固定较小的目标。该武器的高精度源于其底层的量子发射原理。Distortion Turret 可安装于多种船舰上。',
+		race: Races.teladi,
+		type: EquipmentType.turrets,
+		equipmentClass: EquipmentClass.turret,
+		size: Size.medium,
+		price: { min: 10061, max: 67070, avg: 60363 },
+		owners: [ Factions.ministry ],
+		production: [
+		{
+			time: 10,
+			amount: 1,
+			method: 'default',
+			name: '常规',
+			wares: [
+				{ ware: 'advancedelectronics', amount: 4 },
+				{ ware: 'energycells', amount: 126 },
+				{ ware: 'turretcomponents', amount: 15 },
+			],
+		},
+		{
+			time: 10,
+			amount: 1,
+			method: 'closedloop',
+			name: '闭环',
+			wares: [
+				{ ware: 'claytronics', amount: 2 },
+				{ ware: 'energycells', amount: 158 },
+				{ ware: 'hullparts', amount: 17 },
+			],
+		},
+		]
+	},
+	{
+		id: 'turret_gen_m_gatling_01_mk1',
+		version: 1,
+		name: 'M Autocannon Turret Mk1',
+		description: 'Autocannon Turret 似乎是基于从 Argon Federation 与财政部的联合武器系统研究中泄露的蓝图。泄露来源仍未确定。Autocannon 是一种纯动能武器，以短点射方式高精度发射非爆炸性钨弹。虽然不如某些较新的能量武器技术先进，但 Autocannon 仍然是一个性能强大且备受追捧的系统。通过未经批准的军火商可购得，Autocannon Turret 可安装于多种船舰上。',
+		type: EquipmentType.turrets,
+		equipmentClass: EquipmentClass.turret,
+		size: Size.medium,
+		price: { min: 36999, max: 45221, avg: 41110 },
+		owners: [ Factions.scaleplate ],
+		production: [
+		{
+			time: 10,
+			amount: 1,
+			method: 'default',
+			name: '常规',
+			wares: [
+				{ ware: 'advancedcomposites', amount: 2 },
+				{ ware: 'energycells', amount: 77 },
+				{ ware: 'turretcomponents', amount: 9 },
+			],
+		},
+		{
+			time: 10,
+			amount: 1,
+			method: 'closedloop',
+			name: '闭环',
+			wares: [
+				{ ware: 'claytronics', amount: 1 },
+				{ ware: 'energycells', amount: 79 },
+				{ ware: 'hullparts', amount: 7 },
+			],
+		},
+		]
+	},
+	{
+		id: 'turret_gen_m_shieldpierce_01_mk1',
+		version: 1,
+		name: 'ARG M Scalar Aperture Turret Mk1',
+		description: 'Scalar Aperture Turret  是 Heavy Scalar Aperture Emitter 的炮塔挂载变体。它是一种高能武器系统，利用护盾发射器循环中的普朗克时间不连续性来绕过传统护盾。这些微孔径允许光束对船体和结构元件造成直接伤害，使其能有效瘫痪主力舰或其他目标。增强的追踪算法最大化了在移动目标上的停留时间，使 Scalar Aperture Turret 能与传统能量武器直接竞争。SAT 可安装于多种船舰上。',
+		race: Races.argon,
+		type: EquipmentType.turrets,
+		equipmentClass: EquipmentClass.turret,
+		size: Size.medium,
+		price: { min: 75456, max: 92224, avg: 83840 },
+		owners: [ Factions.argon ],
+		production: [
+		{
+			time: 10,
+			amount: 1,
+			method: 'default',
+			name: '常规',
+			wares: [
+				{ ware: 'advancedelectronics', amount: 5 },
+				{ ware: 'energycells', amount: 157 },
+				{ ware: 'turretcomponents', amount: 18 },
+			],
+		},
+		{
+			time: 10,
+			amount: 1,
+			method: 'closedloop',
+			name: '闭环',
+			wares: [
+				{ ware: 'claytronics', amount: 3 },
+				{ ware: 'energycells', amount: 137 },
+				{ ware: 'hullparts', amount: 20 },
+			],
+		},
+		]
+	},
+	{
+		id: 'weapon_gen_m_disabler_01_mk1',
+		version: 1,
+		name: 'M Heavy Distortion Pulsor Mk1',
+		description: 'Heavy Distortion Pulsor 由 Joint Teladi Defence Consortium 为财政部的特使级舰队开发。它以相对论速度发射相干物质波，撞击时放电，暂时瘫痪并固定较小的目标。该武器的高精度源于其底层的量子发射原理。Heavy Distortion Pulsor 只能安装于特使级和暗码级船舰上。',
+		race: Races.teladi,
+		type: EquipmentType.weapons,
+		equipmentClass: EquipmentClass.weapon,
+		size: Size.medium,
+		hull: 1001,
+		price: { min: 399870, max: 488730, avg: 444300 },
+		owners: [ Factions.ministry, Factions.scaleplate ],
+		production: [
+		{
+			time: 20,
+			amount: 1,
+			method: 'default',
+			name: '常规',
+			wares: [
+				{ ware: 'advancedelectronics', amount: 26 },
+				{ ware: 'energycells', amount: 833 },
+				{ ware: 'weaponcomponents', amount: 94 },
+			],
+		},
+		{
+			time: 20,
+			amount: 1,
+			method: 'closedloop',
+			name: '闭环',
+			wares: [
+				{ ware: 'claytronics', amount: 19 },
+				{ ware: 'energycells', amount: 283 },
+				{ ware: 'hullparts', amount: 111 },
+			],
+		},
+		]
+	},
+	{
+		id: 'weapon_gen_m_shieldpierce_01_mk1',
+		version: 1,
+		name: 'M Heavy Scalar Aperture Emitter Mk1',
+		description: '由 Theonray Defence Corporation 根据 Argon Federation 合约制造，Heavy Scalar Aperture Emitter  是一种高能武器系统，它利用护盾发射器循环中的普朗克时间不连续性来绕过传统护盾。这些微孔径允许光束对船体和结构元件造成直接伤害，使其能有效瘫痪主力舰或其他目标。增强的追踪算法最大化了在移动目标上的停留时间，使 HSAE 能与传统能量武器直接竞争。HSAE 可安装于特使级和暗码级船舰上。',
+		race: Races.argon,
+		type: EquipmentType.weapons,
+		equipmentClass: EquipmentClass.weapon,
+		size: Size.medium,
+		hull: 1001,
+		price: { min: 300659, max: 334065, avg: 334065 },
+		owners: [ Factions.argon ],
+		production: [
+		{
+			time: 20,
+			amount: 1,
+			method: 'default',
+			name: '常规',
+			wares: [
+				{ ware: 'advancedelectronics', amount: 20 },
+				{ ware: 'energycells', amount: 626 },
+				{ ware: 'turretcomponents', amount: 70 },
+			],
+		},
+		{
+			time: 20,
+			amount: 1,
+			method: 'closedloop',
+			name: '闭环',
+			wares: [
+				{ ware: 'claytronics', amount: 14 },
+				{ ware: 'energycells', amount: 232 },
+				{ ware: 'hullparts', amount: 82 },
 			],
 		},
 		]

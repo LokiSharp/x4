@@ -501,8 +501,6 @@ export const Modules = {
     Factions.trinity,
     Factions.freesplit,
     Factions.split,
-    Factions.freesplit,
-    Factions.split,
    ],
    docks: [
      { capacity: 10, size: Size.medium },
@@ -540,8 +538,6 @@ export const Modules = {
     Factions.paranid,
     Factions.teladi,
     Factions.trinity,
-    Factions.freesplit,
-    Factions.split,
     Factions.freesplit,
     Factions.split,
    ],
@@ -583,8 +579,6 @@ export const Modules = {
     Factions.trinity,
     Factions.freesplit,
     Factions.split,
-    Factions.freesplit,
-    Factions.split,
    ],
    docks: [
      { capacity: 10, size: Size.medium },
@@ -622,8 +616,6 @@ export const Modules = {
     Factions.paranid,
     Factions.teladi,
     Factions.trinity,
-    Factions.freesplit,
-    Factions.split,
     Factions.freesplit,
     Factions.split,
    ],
@@ -665,8 +657,6 @@ export const Modules = {
     Factions.trinity,
     Factions.freesplit,
     Factions.split,
-    Factions.freesplit,
-    Factions.split,
    ],
    docks: [
      { capacity: 10, size: Size.medium },
@@ -704,8 +694,6 @@ export const Modules = {
     Factions.paranid,
     Factions.teladi,
     Factions.trinity,
-    Factions.freesplit,
-    Factions.split,
     Factions.freesplit,
     Factions.split,
    ],
@@ -1272,9 +1260,7 @@ export const Modules = {
     Factions.loanshark,
     Factions.scavenger,
     Factions.boron,
-    Factions.court,
-    Factions.freesplit,
-    Factions.split,
+    Factions.kaori,
    ],
     production: [
      {
@@ -1762,8 +1748,6 @@ export const Modules = {
     Factions.xenon,
     Factions.freesplit,
     Factions.split,
-    Factions.freesplit,
-    Factions.split,
    ],
    docks: [
      { capacity: 30, size: Size.medium },
@@ -1817,8 +1801,6 @@ export const Modules = {
     Factions.trinity,
     Factions.freesplit,
     Factions.split,
-    Factions.freesplit,
-    Factions.split,
    ],
     production: [
      {
@@ -1856,8 +1838,6 @@ export const Modules = {
     Factions.trinity,
     Factions.freesplit,
     Factions.split,
-    Factions.freesplit,
-    Factions.split,
    ],
     production: [
      {
@@ -1892,6 +1872,7 @@ export const Modules = {
     Factions.pioneers,
     Factions.loanshark,
     Factions.scavenger,
+    Factions.kaori,
    ],
     production: [
      {
@@ -1937,6 +1918,7 @@ export const Modules = {
     Factions.pioneers,
     Factions.loanshark,
     Factions.scavenger,
+    Factions.kaori,
    ],
     production: [
      {
@@ -1982,6 +1964,7 @@ export const Modules = {
     Factions.pioneers,
     Factions.loanshark,
     Factions.scavenger,
+    Factions.kaori,
    ],
     production: [
      {
@@ -2030,8 +2013,6 @@ export const Modules = {
     Factions.trinity,
     Factions.freesplit,
     Factions.split,
-    Factions.freesplit,
-    Factions.split,
    ],
    docks: [
      { capacity: 30, size: Size.medium },
@@ -2074,8 +2055,6 @@ export const Modules = {
     Factions.trinity,
     Factions.freesplit,
     Factions.split,
-    Factions.freesplit,
-    Factions.split,
    ],
     production: [
      {
@@ -2111,8 +2090,6 @@ export const Modules = {
     Factions.paranid,
     Factions.teladi,
     Factions.trinity,
-    Factions.freesplit,
-    Factions.split,
     Factions.freesplit,
     Factions.split,
    ],
@@ -2215,8 +2192,6 @@ export const Modules = {
     Factions.freesplit,
     Factions.split,
     Factions.boron,
-    Factions.freesplit,
-    Factions.split,
    ],
    shields: [
      { group: 'top_01', size: Size.medium, hittable: true },
@@ -2278,8 +2253,6 @@ export const Modules = {
     Factions.freesplit,
     Factions.split,
     Factions.boron,
-    Factions.freesplit,
-    Factions.split,
    ],
    shields: [
      { group: 'top_01', size: Size.medium, hittable: true },
@@ -2341,8 +2314,6 @@ export const Modules = {
     Factions.freesplit,
     Factions.split,
     Factions.boron,
-    Factions.freesplit,
-    Factions.split,
    ],
    shields: [
      { group: 'top_01', size: Size.medium, hittable: true },
@@ -2404,8 +2375,6 @@ export const Modules = {
     Factions.freesplit,
     Factions.split,
     Factions.boron,
-    Factions.freesplit,
-    Factions.split,
    ],
    shields: [
      { group: 'top_01', size: Size.medium, hittable: true },
@@ -2466,8 +2435,6 @@ export const Modules = {
     Factions.freesplit,
     Factions.split,
     Factions.boron,
-    Factions.freesplit,
-    Factions.split,
    ],
    shields: [
      { group: 'top_01', size: Size.medium, hittable: true },
@@ -2527,8 +2494,6 @@ export const Modules = {
     Factions.freesplit,
     Factions.split,
     Factions.boron,
-    Factions.freesplit,
-    Factions.split,
    ],
    shields: [
      { group: 'top_01', size: Size.medium, hittable: true },
@@ -2590,8 +2555,6 @@ export const Modules = {
     Factions.freesplit,
     Factions.split,
     Factions.boron,
-    Factions.freesplit,
-    Factions.split,
    ],
    shields: [
      { group: 'top_01', size: Size.medium, hittable: true },
@@ -2640,8 +2603,6 @@ export const Modules = {
     Factions.freesplit,
     Factions.split,
     Factions.boron,
-    Factions.freesplit,
-    Factions.split,
    ],
    shields: [
      { group: 'top_01', size: Size.medium, hittable: true },
@@ -2701,8 +2662,6 @@ export const Modules = {
     Factions.freesplit,
     Factions.split,
     Factions.boron,
-    Factions.freesplit,
-    Factions.split,
    ],
    shields: [
      { group: 'top_01', size: Size.medium, hittable: true },
@@ -2759,8 +2718,6 @@ export const Modules = {
     Factions.freesplit,
     Factions.split,
     Factions.boron,
-    Factions.freesplit,
-    Factions.split,
    ],
    shields: [
      { group: 'top_01', size: Size.medium, hittable: true },
@@ -2822,8 +2779,6 @@ export const Modules = {
     Factions.freesplit,
     Factions.split,
     Factions.boron,
-    Factions.freesplit,
-    Factions.split,
    ],
    shields: [
      { group: 'top_01', size: Size.medium, hittable: true },
@@ -2885,8 +2840,6 @@ export const Modules = {
     Factions.freesplit,
     Factions.split,
     Factions.boron,
-    Factions.freesplit,
-    Factions.split,
    ],
    shields: [
      { group: 'top_01', size: Size.medium, hittable: true },
@@ -2947,8 +2900,6 @@ export const Modules = {
     Factions.freesplit,
     Factions.split,
     Factions.boron,
-    Factions.freesplit,
-    Factions.split,
    ],
    shields: [
      { group: 'top_01', size: Size.medium, hittable: true },
@@ -3010,8 +2961,6 @@ export const Modules = {
     Factions.freesplit,
     Factions.split,
     Factions.boron,
-    Factions.freesplit,
-    Factions.split,
    ],
    shields: [
      { group: 'top_01', size: Size.medium, hittable: true },
@@ -3073,8 +3022,6 @@ export const Modules = {
     Factions.freesplit,
     Factions.split,
     Factions.boron,
-    Factions.freesplit,
-    Factions.split,
    ],
    shields: [
      { group: 'top_01', size: Size.medium, hittable: true },
@@ -3130,8 +3077,6 @@ export const Modules = {
     Factions.freesplit,
     Factions.split,
     Factions.boron,
-    Factions.freesplit,
-    Factions.split,
    ],
    shields: [
      { group: 'top_01', size: Size.medium, hittable: true },
@@ -3193,8 +3138,6 @@ export const Modules = {
     Factions.freesplit,
     Factions.split,
     Factions.boron,
-    Factions.freesplit,
-    Factions.split,
    ],
    shields: [
      { group: 'top_01', size: Size.medium, hittable: true },
@@ -3315,8 +3258,6 @@ export const Modules = {
     Factions.freesplit,
     Factions.split,
     Factions.boron,
-    Factions.freesplit,
-    Factions.split,
    ],
    shields: [
      { group: 'top_01', size: Size.medium, hittable: true },
@@ -3378,8 +3319,6 @@ export const Modules = {
     Factions.freesplit,
     Factions.split,
     Factions.boron,
-    Factions.freesplit,
-    Factions.split,
    ],
    shields: [
      { group: 'top_01', size: Size.medium, hittable: true },
@@ -3435,8 +3374,6 @@ export const Modules = {
     Factions.freesplit,
     Factions.split,
     Factions.boron,
-    Factions.freesplit,
-    Factions.split,
    ],
    shields: [
      { group: 'left_01', size: Size.medium, hittable: true },
@@ -3489,8 +3426,6 @@ export const Modules = {
     Factions.paranid,
     Factions.teladi,
     Factions.trinity,
-    Factions.freesplit,
-    Factions.split,
     Factions.freesplit,
     Factions.split,
    ],
@@ -3551,8 +3486,6 @@ export const Modules = {
     Factions.freesplit,
     Factions.split,
     Factions.boron,
-    Factions.freesplit,
-    Factions.split,
    ],
    shields: [
      { group: 'down_01', size: Size.medium, hittable: true },
@@ -3609,8 +3542,6 @@ export const Modules = {
     Factions.freesplit,
     Factions.split,
     Factions.boron,
-    Factions.freesplit,
-    Factions.split,
    ],
    shields: [
      { group: 'top_01', size: Size.medium, hittable: true },
@@ -3669,8 +3600,6 @@ export const Modules = {
     Factions.freesplit,
     Factions.split,
     Factions.boron,
-    Factions.freesplit,
-    Factions.split,
    ],
    shields: [
      { group: 'top_01', size: Size.medium, hittable: true },
@@ -3730,8 +3659,6 @@ export const Modules = {
     Factions.freesplit,
     Factions.split,
     Factions.boron,
-    Factions.freesplit,
-    Factions.split,
    ],
    shields: [
      { group: 'top_01', size: Size.medium, hittable: true },
@@ -11242,31 +11169,4 @@ export const AllModules = [
  Modules.module_bor_stor_solid_l_01,
  Modules.module_bor_stor_solid_m_01,
  Modules.module_bor_stor_solid_s_01,
- Modules.module_spl_conn_base_01,
- Modules.module_spl_conn_base_02,
- Modules.module_spl_conn_base_03,
- Modules.module_spl_conn_cross_01,
- Modules.module_spl_conn_vertical_01,
- Modules.module_spl_conn_vertical_02,
- Modules.module_spl_def_claim_01,
- Modules.module_spl_def_disc_01,
- Modules.module_spl_def_tube_01,
- Modules.module_spl_hab_l_01,
- Modules.module_spl_hab_m_01,
- Modules.module_spl_hab_s_01,
- Modules.module_spl_pier_l_01,
- Modules.module_spl_pier_l_02,
- Modules.module_spl_pier_l_03,
- Modules.module_spl_prod_cheltmeat_01,
- Modules.module_spl_prod_medicalsupplies_01,
- Modules.module_spl_prod_scruffinfruits_01,
- Modules.module_spl_stor_container_l_01,
- Modules.module_spl_stor_container_m_01,
- Modules.module_spl_stor_container_s_01,
- Modules.module_spl_stor_liquid_l_01,
- Modules.module_spl_stor_liquid_m_01,
- Modules.module_spl_stor_liquid_s_01,
- Modules.module_spl_stor_solid_l_01,
- Modules.module_spl_stor_solid_m_01,
- Modules.module_spl_stor_solid_s_01,
 ];

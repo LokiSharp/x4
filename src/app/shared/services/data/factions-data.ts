@@ -624,6 +624,23 @@ const entities = {
        { type: 'tradesubscription', name: 'Boron贸易认购证', icon: '', price: 10000000 },
      ],
  },
+  kaori: {
+     id: 'kaori',
+     version: 1,
+     name: '奎塔航者',
+     description: '根据奎塔航者的传说，来自于宇宙各处的祖先共同建立了他们的文明。一个至今未解的问题是这些相互隔绝的种族是如何走到一起成为一个群体的。尝试回答该问题的理论五花八门，从在时空异常中失踪的飞船到偶然碰到一起的分裂势力应有尽有。根据讲述者的不同，更有离谱的理论认为奎塔航者具备在不被发现的情况下于星系中任意穿行的能力，并凭借此通过救援或绑架的方式获取新成员。只有一点是无疑的：奎塔航者真正的起源恐怕已经永远遗失在时间长河中了。nn奎塔航者社会结构的核心是他们独特的以物易物经济。和其他势力基于信用币的经济不同，奎塔诺人更愿意直接交易货品和服务。这种去中心化的系统更有利于资源的流通和保持独立自主性。',
+     race: Races.argon,
+      icon: 'faction_kaori',
+     licenses: [
+       { type: 'ceremonyally', name: '三津野信赖的顾问', icon: '', price: 0 },
+       { type: 'ceremonyfriend', name: '三津野的朋友', icon: '', price: 0 },
+       { type: 'generaluseequipment', name: '奎塔航者通用装备执照', icon: '', price: 0 },
+       { type: 'police', name: '奎塔航者执法执照', icon: '', price: 0 },
+       { type: 'station_gen_advanced', name: '奎塔航者高级模块执照', icon: '', price: 0 },
+       { type: 'station_gen_basic', name: '奎塔航者基础模块执照', icon: '', price: 0 },
+       { type: 'station_gen_intermediate', name: '奎塔航者中级模块执照', icon: '', price: 0 },
+     ],
+ },
 };
 
 export const Factions = {
@@ -660,9 +677,7 @@ export const Factions = {
     entities.loanshark,
     entities.scavenger,
     entities.boron,
-    entities.court,
-    entities.fallensplit,
-    entities.freesplit,
-    entities.split,
+    entities.terran,
+    entities.kaori,
   ]
 };
